@@ -15,41 +15,18 @@ router.get('/', authenticateToken ,async (req, res) => {
     }
 })
 
-router.post('/', authenticateToken, async (req, res) => { 
+router.patch('/:id/clients', [authenticateToken,getBusiness], async (req, res) => { 
     try {
-        const business = new Business({
-            Name: req.body.name,
-            Owner: req.user._id,
-            Clients: [],
-            Partners: []
-        })
-        await business.save()
-        res.status(201).json(business)
+        res.Business.clients.push(req.body.client)
+        await res.Business.save()
+        res.status(200).json({ Message: "Client added" }) 
     
-    } catch (err) {
-        res.status(400).json({ Message: err.message })
+    } catch (err) { 
+        res.status(500).json({ Message: err.message }) 
     }
-
 })
 
-router.delete('/:id', [authenticateToken, getBusiness], async (req, res) => {
-    try {
-        if (req.user._id == res.Business.Owner) {
-            await Business.findByIdAndDelete(req.params.id)
-            res.status(200).json({ Message: "Business deleted" })
-        }
-        else {
-            res.status(403).json({ Message: "Not the owner" })
-        }
-    } catch (err) {
-        res.status(500).json({ Message: err.message })
-    }
-
-
-})
-
-
-router.delete('/:id/clients', authenticateToken, async (req, res) => { 
+router.delete('/:id/clients', [authenticateToken,getBusiness], async (req, res) => { 
     try {
         res.Business.clients.splice(res.Business.clients.indexOf(req.body.client), 1)
         await res.Business.save()
@@ -59,7 +36,18 @@ router.delete('/:id/clients', authenticateToken, async (req, res) => {
     }
 })
 
-router.delete('/:id/partners', authenticateToken, async (req, res) => { 
+router.patch('/:id/partners', [authenticateToken,getBusiness], async (req, res) => { 
+    try {
+        res.Business.partners.push(req.body.partner)
+        await res.Business.save()
+        res.status(200).json({ Message: "Partner added" }) 
+    
+    } catch (err) { 
+        res.status(500).json({ Message: err.message }) 
+    }
+})
+
+router.delete('/:id/partners', [authenticateToken,getBusiness], async (req, res) => { 
 	try {
         res.Business.partners.splice(res.Business.partners.indexOf(req.body.partner), 1)
 		await res.User.save()
