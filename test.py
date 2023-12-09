@@ -10,4 +10,4 @@ body = {"commercial_names": ["Sapiens"],
 		 "address_txt": "Holon, Israel"}
 
 response = requests.post(baseURL + endpoint, headers=headers,json=body)
-print(response.json())
+print(response.json()[])

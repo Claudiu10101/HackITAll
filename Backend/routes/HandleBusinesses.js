@@ -49,7 +49,7 @@ router.delete('/:id', [authenticateToken, getBusiness], async (req, res) => {
 })
 
 
-router.delete('/:id/clients', [authenticateToken, getUser], async (req, res) => { 
+router.delete('/:id/clients', authenticateToken, async (req, res) => { 
     try {
         res.Business.clients.splice(res.Business.clients.indexOf(req.body.client), 1)
         await res.Business.save()
@@ -59,7 +59,7 @@ router.delete('/:id/clients', [authenticateToken, getUser], async (req, res) => 
     }
 })
 
-router.delete('/:id/partners', [authenticateToken, getUser], async (req, res) => { 
+router.delete('/:id/partners', authenticateToken, async (req, res) => { 
 	try {
         res.Business.partners.splice(res.Business.partners.indexOf(req.body.partner), 1)
 		await res.User.save()
