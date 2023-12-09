@@ -5,6 +5,7 @@ const router = express.Router();
 const User = require("../schemas/user");
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
+const business = require('../schemas/business');
 
 router.post('/Login', getUserByEmail, async (req, res) => {
 	try {
@@ -23,16 +24,29 @@ router.post('/Login', getUserByEmail, async (req, res) => {
 })
 
 router.patch('/Business', authenticateToken, async (req, res) => { 
+	const newBusiness = new business({
+		name: req.body.name,
+		main_category: req.body.main_category,
+		main_products: req.body.main_products,
+		clients: [],
+		partners: [],
+		owner : req.user._id
+	})
+
 	try {
-		res.User.businesses.push(req.body.business)
+		const targetBusiness = await newBusiness.save()
+		res.User.businesses.push(targetBusiness._id)
 	} catch (err) { 
 		res.status(500).json({ Message: err.message }) 
 	}
 	})
 
-router.delete('/Business', authenticateToken, async (req, res) => {
+router.delete('/Business/:id', authenticateToken, async (req, res) => {
 	try {
-		res.User.businesses.splice(res.User.businesses.indexOf(req.body.business), 1)
+		const targetBusiness = await business.findById(req.params.id)
+		res.User.businesses.splice(res.User.businesses.indexOf(targetBusiness), 1)
+		
+		await targetBusiness.remove()
 		await res.User.save()
 		res.json({ Message: "Business deleted" }) 
 	

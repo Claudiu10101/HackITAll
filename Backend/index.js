@@ -11,7 +11,7 @@ mongoose.connect("mongodb://localhost/hackaton")
 const db = mongoose.connection
 
 const UserRouter = require('./routes/HandleUsers')
-app.use('/users', UserRouter)
+app.use('/Users', UserRouter)
 
 const BusinessRouter = require('./routes/HandleBusinesses')
 app.use('/Bussiness', BusinessRouter)

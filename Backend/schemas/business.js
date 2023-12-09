@@ -4,12 +4,8 @@ const businessShema = new mongoose.Schema({
 	name: String,
 	main_category: String,
 	main_products: [String],
-	clients: [
-		mongoose.SchemaTypes.ObjectId
-	],
-	partners: [
-		mongoose.SchemaTypes.ObjectId
-	],
+	clients: [String],
+	partners: [String],
 	owner : mongoose.SchemaTypes.ObjectId
 })
 
