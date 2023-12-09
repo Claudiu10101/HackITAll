@@ -25,6 +25,7 @@ PATCH request la http://localhost:3000/Users/Business cu un body de forma:
 Si cu un header care contine tokenul la Authorization
 
 Returneaza un obiect de tip business de forma:
+
 {
 
 -   \_id: String,
