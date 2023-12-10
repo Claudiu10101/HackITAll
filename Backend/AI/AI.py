@@ -1,7 +1,7 @@
 import openai
 
 def ai_answer(query,system_promt):
-    openai.api_key = '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'
+    openai.api_key = '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'
     try:
         response = openai.ChatCompletion.create(
             model="gpt-4",

@@ -163,7 +163,6 @@ ScreenManager:
                 id: city_signup_textfield
                 hint_text: "Enter your text"
                 multiline: False   
-                password: True
                 size_hint: (None, None)  # Disable size_hint to use absolute size
                 size: 300, 300  # Set the desired width and height
                 pos_hint: {'center_x': 0.1, 'center_y': 0.2}
@@ -177,7 +176,6 @@ ScreenManager:
                 id: country_signup_textfield
                 hint_text: "Enter your text"
                 multiline: False   
-                password: True
                 size_hint: (None, None)  # Disable size_hint to use absolute size
                 size: 300, 300  # Set the desired width and height
                 pos_hint: {'center_x': 0.1, 'center_y': 0.2}   
@@ -191,7 +189,6 @@ ScreenManager:
                 id: company_signup_textfield
                 hint_text: "Enter your text"
                 multiline: False   
-                password: True
                 size_hint: (None, None)  # Disable size_hint to use absolute size
                 size: 300, 300  # Set the desired width and height
                 pos_hint: {'center_x': 0.1, 'center_y': 0.2}
@@ -204,7 +201,7 @@ ScreenManager:
                 pos_hint: {'center_x': 0.7, 'center_y': 1}
                 md_bg_color: 1, 165.0/255.0, 0, 1
                 on_release: app.sendSignInSignal(email2_textfield.text, password_signup_textfield.text, city_signup_textfield.text, country_signup_textfield.text, company_signup_textfield.text)
-                on_release: app.switch_screens("loginbusiness")
+                on_release: app.switch_screen("loginbusiness")
 
             MDRaisedButton:
                 text: 'BACK'
@@ -322,7 +319,7 @@ ScreenManager:
                 size: 300, 148
                 pos_hint: {'center_x': 0.7, 'center_y': 1}
                 md_bg_color: 1, 165.0/255.0, 0, 1
-                on_release: app.sendFindClientSignal()
+                on_release: app.switch_screen('cautareclienti')
             MDRaisedButton:
                 text: 'BACK'
                 font_name: 'carter'
@@ -708,9 +705,7 @@ class InfoViz3(Screen):
 class MyApp(MDApp):
     user_token = "";
 
-    business_name = """BUSINESS NAME
-    BUSINESS NAME
-    BUSINESS NAME"""
+    business_name = """BUSINESS NAME"""
     def build(self):
         self.screen_manager = Builder.load_string(KV)
         
@@ -734,8 +729,10 @@ class MyApp(MDApp):
             "country": country,
             "about": company,
         }
+            self.bussiness_name = company
+
             response = requests.post(baseURL + "/Users",json=body)
-            user_token = response.json()["token"]
+            self.user_token = response.json()["token"]
         else:
             print('Passwords do not match!')
 
@@ -747,11 +744,9 @@ class MyApp(MDApp):
         }
         response = requests.post(baseURL + "/Users/Login",json=body)
         print(response.json())
-        token = response.json()["token"]
+        self.user_token = response.json()["token"]
     def sendFindUsersSignal(self):
-        headers = {"""Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjY1NzU3YzM5ZmViMzE1ZDM4MDM5MmM5NyIsImVtYWlsIjoiQ2xhdWRpdSIsInBhc3N3b3JkIjoiJDJiJDEwJEFBcGJtTX
-BrQVNUVkE4VVo4Zy5kSk9kR29rNlN3TzNPelFibVpDWWljQS9tYzVLV3RYZTdTIiwiYWJvdXQiOiJhc2Rhc2Rhc2Rhc2QiLCJjaXR5IjoiYXNkYXMiLCJjb3VudHJ5IjoiYXNkYSIsImNsaWVudHMiOltdLCJfX3Yi
-OjB9LCJpYXQiOjE3MDIxOTk1Njd9.Z6dapmQYRC8jfvzuZgQDn14i8yqfoBKLlL3Kuqldxgo"""}
+        print("a")
     def sendGetPitch(self):
         print("c")
     

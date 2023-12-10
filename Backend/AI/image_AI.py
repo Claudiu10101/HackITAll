@@ -4,7 +4,7 @@ import os
 
 def image_generator(task, id):
     # Set your API key
-    openai.api_key = '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'
+    openai.api_key = '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'
 
     # Send the request to generate the image
     response = openai.Image.create(
