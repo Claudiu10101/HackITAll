@@ -3,7 +3,14 @@ const mongoose = require('mongoose')
 const userShema = new mongoose.Schema({
 	email: String,
 	password: String,
-	businesses: [mongoose.Schema.Types.ObjectId]
+	about: String,
+	city: String,
+	country: String,
+	clients: [{
+		name: String,
+		website: String,
+		phone_number: String,
+	}]
 })
 
 module.exports = mongoose.model("User", userShema);

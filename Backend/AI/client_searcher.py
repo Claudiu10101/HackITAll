@@ -1,11 +1,13 @@
 import json
+import sys
 import AI
-#TO RECEIVE FROM MY IUBIRE ANDREEA
-#sample_products = "work prottection equipment"
-radius="500 miles"
-sample_cities = "California"
-country= "United States"
-company_description = """i am company selling coffee beans """
+
+data = json.loads(sys.stdin.read())
+
+radius= "25 miles"
+sample_cities = data["city"]
+country= data["country"]
+company_description = data["description"]
 
 sample=company_description#+search_sample_append
 client_system_promt="""
@@ -53,6 +55,9 @@ data = {
     "cities" : city_final_answer,
     "country": country
 }
+
+with open("../buffer.txt", "w") as file:
+    file.write("aaaaaaaa")
 
 with open(filename, "w") as json_file:
     json.dump(data, json_file)

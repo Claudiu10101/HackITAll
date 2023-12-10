@@ -9,6 +9,7 @@ const business = require('../schemas/business');
 
 router.post('/Login', getUserByEmail, async (req, res) => {
 	try {
+		console.log(res.User)
 		if (await bcrypt.compare(req.body.password, res.User.password)) {
 			const user = res.User
 			const token = jwt.sign({ user }, process.env.ACCESS_TOKEN_SECRET)
@@ -20,6 +21,32 @@ router.post('/Login', getUserByEmail, async (req, res) => {
 	}
 	catch (err) {
 		res.status(500).json({ Message: err.message })
+	}
+})
+
+
+router.post('/', async (req, res) => {
+	const search = await User.find({ email: req.body.email })
+
+	if (search.length != 0) {
+		res.status(409).json({ message: "Email already used" })
+	}
+	else {
+		const newUser = new User({
+			email: req.body.email,
+			password: await bcrypt.hash(req.body.password, 10),
+			about: req.body.about,
+			country: req.body.country,
+			city: req.body.city,
+		})
+
+		try {
+			const user = await newUser.save();
+			const token = jwt.sign({ user }, process.env.ACCESS_TOKEN_SECRET)
+			res.status(200).json({ token: token })
+		} catch (err) {
+			res.status(500).json({ Message: err.message })
+		}
 	}
 })
 
@@ -55,28 +82,6 @@ router.delete('/Business/:id', authenticateToken, async (req, res) => {
 	}
 })
 
-router.post('/', async (req, res) => {
-	const search = await User.find({ email: req.body.email })
-
-	if (search.length != 0) {
-		res.status(409).json({ message: "Email already used" })
-	}
-	else {
-		const newUser = new User({
-			email: req.body.email,
-			password: await bcrypt.hash(req.body.password, 10),
-			businesses: null
-		})
-
-		try {
-			const user = await newUser.save();
-			const token = jwt.sign({ user }, process.env.ACCESS_TOKEN_SECRET)
-			res.status(200).json({ token: token })
-		} catch (err) {
-			res.status(500).json({ Message: err.message })
-		}
-	}
-})
 
 
 async function getUserByEmail(req, res, next) {
@@ -100,7 +105,7 @@ function authenticateToken(req, res, next) {
     if (token == null) return res.sendStatus(401)
 
     jwt.verify(token, process.env.ACCESS_TOKEN_SECRET, (err, user) => {
-        if (err) return res.sendStatus(403)
+        if (err) return res.sendStatus(403).json()
         req.user = user.user
         next()
     })

@@ -1,7 +1,7 @@
 import openai
 
 def ai_answer(query,system_promt):
-    openai.api_key = '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'
+    openai.api_key = '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'
     try:
         response = openai.ChatCompletion.create(
             model="gpt-4",
@@ -22,5 +22,8 @@ def vectorise_space (sample):
     return answer
 def vectorise_comma (sample):
     answer = sample.split(",")
-    return answer    
+    return answer
+def parser(sample): 
+    answer = sample.split("$")
+    return answer   
 
