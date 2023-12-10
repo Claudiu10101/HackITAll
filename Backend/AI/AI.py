@@ -8,7 +8,7 @@ def ai_answer(query,system_promt):
             messages=[
                 {"role": "system", "content": system_promt},
                 {"role": "user", "content": query}
-            ]
+            ] 
         )
         return response.choices[0].message['content']
     except Exception as e:
