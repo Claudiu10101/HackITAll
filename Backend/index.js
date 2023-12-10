@@ -16,9 +16,8 @@ app.use('/Users', UserRouter)
 const BusinessRouter = require('./routes/HandleBusinesses')
 app.use('/Bussiness', BusinessRouter)
 
-const PCRouter = require('./routes/HandlePC')
+const PCRouter = require('./routes/HandleClients')
 app.use('/Clients', PCRouter)
-app.use('/Partners', PCRouter)
 
 
 app.listen(3000, () => {

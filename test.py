@@ -1,13 +1,29 @@
 import requests
 import json
 
-#create a request for an endpoint
-baseURL = "https://data.soleadify.com"
-endpoint = "/match/v4/companies"
-key = "Lk34BnMBMFDj07xGbkQ_aNikeD4_NSKq643WxEEuQUAcjtbrVJStX9FpASw7"
+baseURL = "https://data.veridion.com"
+endpoint = "/search/v2/companies?page_size=200"
+key = "pXStedvXkA9pMcNK1tWvx_4DesmTsIZ47qfTa6WkqFxgrCvCqJA0mpALQ53J"
 headers = {"x-api-key": key, "Content-Type": "application/json"}
-body = {"commercial_names": ["Sapiens"],
-		 "address_txt": "Holon, Israel"}
+body= {
+        "filters": {
+        "and": [
+            {
+                "attribute": "company_location",
+                "relation": "in",
+                "value": [
+                    {
+						"country": "United Kingdom",
+						"city": "Manchester"
+                    }
+                ],
+                "strictness": 3
+            } 
+        ]
+    }
+}
 
 response = requests.post(baseURL + endpoint, headers=headers,json=body)
-print(response.json()[])
+result = response.json()["result"]
+for comp in result:
+		print(comp["website_url"])
