@@ -1,0 +1,3494 @@
+[
+    {
+        "soleadify_id": "85aac555-93e4-11eb-a746-fdabd18be9c6",
+        "company_name": "Smith's Food and Drug",
+        "company_legal_names": null,
+        "company_commercial_names": [
+            "Smith's",
+            "Smith's Food and Drug"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Utah",
+        "main_city": "Salt Lake City",
+        "main_street": "Redwood Road",
+        "main_street_number": "1550",
+        "main_postcode": "84104",
+        "main_latitude": 40.74053192138672,
+        "main_longitude": -111.93898010253906,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Nevada",
+                "city": "North Las Vegas",
+                "postcode": "89030",
+                "street": "Las Vegas Boulevard North",
+                "street_number": "2255",
+                "latitude": 36.20070266723633,
+                "longitude": -115.1220703125
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Nevada",
+                "city": "Enterprise",
+                "postcode": "89113",
+                "street": "West Warm Springs Road",
+                "street_number": "8525",
+                "latitude": 36.054161071777344,
+                "longitude": -115.27747344970703
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Idaho",
+                "city": "Twin Falls",
+                "postcode": "83301",
+                "street": "Addison Ave East",
+                "street_number": "1913",
+                "latitude": 42.563236236572266,
+                "longitude": -114.44761657714844
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Montana",
+                "city": "Bozeman",
+                "postcode": "59718",
+                "street": "North 19th Avenue",
+                "street_number": "1400",
+                "latitude": 45.697044372558594,
+                "longitude": -111.06265258789062
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Utah",
+                "city": "Salt Lake City",
+                "postcode": "84104",
+                "street": "Redwood Road",
+                "street_number": "1550",
+                "latitude": 40.74053192138672,
+                "longitude": -111.93898010253906
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Nevada",
+                "city": "Las Vegas",
+                "postcode": "88914",
+                "street": "Southern Highlands Parkway",
+                "street_number": "10600",
+                "latitude": 35.96418380737305,
+                "longitude": -115.1866683959961
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Nevada",
+                "city": "North Las Vegas",
+                "postcode": "89030",
+                "street": "East Carey Avenue",
+                "street_number": "1777",
+                "latitude": 36.20301818847656,
+                "longitude": -115.12213897705078
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Nevada",
+                "city": "Las Vegas",
+                "postcode": "89103",
+                "street": "South Decatur Boulevard",
+                "street_number": "4001",
+                "latitude": 36.13686752319336,
+                "longitude": -115.20802307128906
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Utah",
+                "city": "Salt Lake City",
+                "postcode": "84103",
+                "street": "6th Avenue",
+                "street_number": "402",
+                "latitude": 40.77547073364258,
+                "longitude": -111.87678527832031
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Utah",
+                "city": "Logan",
+                "postcode": "84321",
+                "street": "North Main Street",
+                "street_number": "750",
+                "latitude": 41.745723724365234,
+                "longitude": -111.83280181884766
+            }
+        ],
+        "num_locations": 213,
+        "company_type": "Private",
+        "year_founded": 1911,
+        "employee_count": 22000,
+        "estimated_revenue": null,
+        "short_description": "Smith's Food and Drug, or simply Smith's, is an American regional supermarket chain that was founded by Lorenzo Smith in 1911 in Brigham City, Utah.",
+        "long_description": "Smith's Food and Drug, or simply Smith's, is an American regional supermarket chain that was founded by Lorenzo Smith in 1911 in Brigham City, Utah. Headquartered in Salt Lake City with stores in Utah, Nevada, New Mexico, Arizona, Montana, Idaho, and Wyoming, Smith's became a subsidiary of Kroger in 1998.",
+        "business_tags": null,
+        "main_business_category": "Drug Stores & Pharmacies",
+        "main_industry": "Health & Medical",
+        "main_sector": null,
+        "primary_phone": null,
+        "phone_numbers": null,
+        "primary_email": null,
+        "emails": null,
+        "other_emails": null,
+        "website_url": "https://www.smithsfoodanddrug.com",
+        "website_domain": "smithsfoodanddrug.com",
+        "website_tld": "com",
+        "website_language_code": null,
+        "facebook_url": null,
+        "twitter_url": null,
+        "instagram_url": null,
+        "linkedin_url": null,
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": null,
+        "cms": null,
+        "alexa_rank": 31047,
+        "technologies": [
+            "analytics: akamai mpulse",
+            "analytics: adobe analytics",
+            "social login: google sign-in",
+            "analytics: soasta mpulse",
+            "analytics: google ads conversion tracking",
+            "rum: akamai mpulse",
+            "customer data platform: adobe experience platform identity service",
+            "rum: boomerang",
+            "javascript frameworks: react",
+            "cdn: akamai",
+            "authentication: google sign-in",
+            "miscellaneous: onetrust",
+            "retargeting: adobe audience manager",
+            "miscellaneous: optanon",
+            "reverse proxy: nginx",
+            "dev tools: dynatrace",
+            "analytics: ruxit",
+            "segmentation: adobe audience manager",
+            "cookie compliance: onetrust",
+            "tag managers: adobe dynamic tag management",
+            "seo tool: facebook friendly",
+            "analytics: microsoft clarity",
+            "analytics: dynatrace",
+            "document management systems: adobe audience manager",
+            "ecommerce: cart functionality",
+            "widgets: google plus",
+            "saas: adobe experience platform identity service",
+            "tag managers: google tag manager",
+            "retargeting: google remarketing tag",
+            "advertising: thetradedesk",
+            "analytics: sitecatalyst",
+            "analytics: pinterest conversion tag",
+            "advertising: microsoft advertising",
+            "analytics: adobe audience manager",
+            "security: akamai bot manager",
+            "web servers: nginx",
+            "retargeting: google dynamic remarketing"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "445110",
+                "label": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)"
+            },
+            "secondary": [
+                {
+                    "code": "424410",
+                    "label": "General Line Grocery Merchant Wholesalers"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "47.11",
+                "label": "Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "8006",
+            "8033"
+        ],
+        "sic": [
+            {
+                "code": "5141",
+                "label": "Groceries, General Line (general line groceries sold via retail method)"
+            },
+            {
+                "code": "5411",
+                "label": "Grocery Stores (except convenience stores, freezer plans, and grocery stores with substantial general merchandise)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "4711",
+                "label": "Retail sale in non-specialized stores with food, beverages or tobacco predominating"
+            }
+        ],
+        "sics_industry": null,
+        "sics_subsector": null,
+        "sics_sector": null,
+        "ibc_insurance": null,
+        "created_at": "2022-02-04T08:28:00.000Z",
+        "last_updated_at": "2023-06-12T14:04:27.338Z"
+    },
+    {
+        "soleadify_id": "dac51dfa-93e4-11eb-9937-4fab995bf8ff",
+        "company_name": "H-E-B",
+        "company_legal_names": [
+            "H-E-B Grocery Company LP."
+        ],
+        "company_commercial_names": [
+            "H-E-B",
+            "H-E-B Grocery Stores"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Texas",
+        "main_city": "San Antonio",
+        "main_street": "South Flores Street",
+        "main_street_number": "605",
+        "main_postcode": "78204",
+        "main_latitude": 29.418550491333008,
+        "main_longitude": -98.49755859375,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Allen",
+                "postcode": "75002",
+                "street": "South Greenville Avenue",
+                "street_number": "1024",
+                "latitude": 33.08122253417969,
+                "longitude": -96.67688751220703
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Sugar Land",
+                "postcode": "77479",
+                "street": "Southwest Freeway",
+                "street_number": "19988",
+                "latitude": 29.582441329956055,
+                "longitude": -95.64520263671875
+            },
+            {
+                "country_code": "MX",
+                "country": "Mexico",
+                "region": "Coahuila",
+                "city": "Saltillo",
+                "postcode": "25070",
+                "street": "Calle Lourdes",
+                "street_number": "1474",
+                "latitude": 25.38674545288086,
+                "longitude": -101.0047378540039
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "San Antonio",
+                "postcode": "78251",
+                "street": "Grissom Pass",
+                "street_number": null,
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Harker Heights",
+                "postcode": "76548",
+                "street": "Indian Trail",
+                "street_number": "601",
+                "latitude": 31.07889747619629,
+                "longitude": -97.65499114990234
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Spring",
+                "postcode": "77388",
+                "street": "Louetta Road",
+                "street_number": "7308",
+                "latitude": 30.063688278198242,
+                "longitude": -95.44498443603516
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Houston",
+                "postcode": "77043",
+                "street": "Kempwood Drive",
+                "street_number": "10251",
+                "latitude": 29.821773529052734,
+                "longitude": -95.54741668701172
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Pleasanton",
+                "postcode": "78064",
+                "street": "West Oaklawn Road",
+                "street_number": "219",
+                "latitude": 28.956180572509766,
+                "longitude": -98.48700714111328
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Austin",
+                "postcode": "78753",
+                "street": "North Lamar Boulevard",
+                "street_number": "9414",
+                "latitude": 30.364408493041992,
+                "longitude": -97.69817352294922
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Houston",
+                "postcode": "77044",
+                "street": "Tidwell Road",
+                "street_number": "13631",
+                "latitude": 29.84983253479004,
+                "longitude": -95.22787475585938
+            }
+        ],
+        "num_locations": 420,
+        "company_type": "Private",
+        "year_founded": 1905,
+        "employee_count": 145000,
+        "estimated_revenue": null,
+        "short_description": "H-E-B Grocery Company, LP, is an American privately held supermarket chain based in San Antonio, Texas, with more than 340 stores throughout the U. S. state of Texas, as well as in northeast Mexico.",
+        "long_description": "H-E-B Grocery Company, LP, is an American privately held supermarket chain based in San Antonio, Texas, with more than 340 stores throughout the U.S. state of Texas, as well as in northeast Mexico. The company also operates Central Market, an upscale organic and fine foods retailer. As of 2019, the company has a total revenue surpassing US$31.2 billion. H-E-B ranked number 9 on Forbes 2020 list of \"America's Largest Private Companies\". H-E-B was named Retailer of the Year in 2010 by Progressive Grocer. Supermarket News ranks H-E-B 13th on the list of \"Top 75 North American Food Retailers\" by sales. Based on 2019 revenues, H-E-B is the 19th-largest retailer in the United States. It donates 5% of pretax profits to charity. The official mascot of H-E-B is named H-E-Buddy, an anthropomorphic brown grocery bag, with multiple grocery items being shown coming out of the top.",
+        "business_tags": [
+            "American Food",
+            "Fine Food"
+        ],
+        "main_business_category": "Groceries",
+        "main_industry": "Food & Beverage",
+        "main_sector": null,
+        "primary_phone": null,
+        "phone_numbers": null,
+        "primary_email": null,
+        "emails": null,
+        "other_emails": null,
+        "website_url": "https://www.heb.com/",
+        "website_domain": "heb.com",
+        "website_tld": "com",
+        "website_language_code": null,
+        "facebook_url": "https://facebook.com/heb",
+        "twitter_url": "https://twitter.com/heb",
+        "instagram_url": "https://instagram.com/heb",
+        "linkedin_url": "https://linkedin.com/company/heb",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": null,
+        "cms": null,
+        "alexa_rank": 5667,
+        "technologies": [
+            "reverse proxy: f5 bigip",
+            "reverse proxy: envoy",
+            "analytics: facebook custom audiences",
+            "analytics: google ads conversion tracking",
+            "issue trackers: new relic",
+            "issue trackers: sentry",
+            "font scripts: google font api",
+            "widgets: facebook",
+            "retargeting: facebook custom audiences",
+            "captchas: recaptcha",
+            "security: imperva",
+            "seo tool: facebook friendly",
+            "ecommerce: cart functionality",
+            "tag managers: google tag manager",
+            "retargeting: google remarketing tag",
+            "dev tools: new relic",
+            "retargeting: facebook",
+            "advertising: microsoft advertising",
+            "seo tool: twitter friendly",
+            "analytics: new relic",
+            "analytics: google analytics",
+            "programming languages: java",
+            "rum: datadog",
+            "analytics: datadog",
+            "web servers: openresty - 1.19.9.1",
+            "reverse proxy: nginx",
+            "web servers: nginx"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "445110",
+                "label": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)"
+            },
+            "secondary": [
+                {
+                    "code": "424410",
+                    "label": "General Line Grocery Merchant Wholesalers"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "47.11",
+                "label": "Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "8006",
+            "8033"
+        ],
+        "sic": [
+            {
+                "code": "5141",
+                "label": "Groceries, General Line (general line groceries sold via retail method)"
+            },
+            {
+                "code": "5411",
+                "label": "Grocery Stores (except convenience stores, freezer plans, and grocery stores with substantial general merchandise)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "4711",
+                "label": "Retail sale in non-specialized stores with food, beverages or tobacco predominating"
+            }
+        ],
+        "sics_industry": null,
+        "sics_subsector": null,
+        "sics_sector": null,
+        "ibc_insurance": null,
+        "created_at": "2019-11-24T02:23:31.000Z",
+        "last_updated_at": "2023-09-06T04:33:13.000Z"
+    },
+    {
+        "soleadify_id": "34b31ecd-93e5-11eb-b997-8dd98d09cf25",
+        "company_name": "Sprudge",
+        "company_legal_names": null,
+        "company_commercial_names": [
+            "Sprudge",
+            "Sprudge Coffee"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Oregon",
+        "main_city": "Portland",
+        "main_street": "Northwest Hoyt Street",
+        "main_street_number": "715",
+        "main_postcode": "97208",
+        "main_latitude": 45.52736415151515,
+        "main_longitude": -122.67945687878789,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Oregon",
+                "city": "Portland",
+                "postcode": "97208",
+                "street": "Northwest Hoyt Street",
+                "street_number": "715",
+                "latitude": 45.52736415151515,
+                "longitude": -122.67945687878789
+            }
+        ],
+        "num_locations": 2,
+        "company_type": "Private",
+        "year_founded": 2009,
+        "employee_count": 12,
+        "estimated_revenue": 6900000,
+        "short_description": "An indispensable resource for individuals who are passionate about coffee.",
+        "long_description": "Sprudge is an American blog founded by Zachary Carlsen and Jordan Michelman and based in Portland, Oregon, focusing on \"coffee news and gossip\". Founded in 2009, Sprudge is the flagship blog of the Sprudge Media Network. The Sprudge Media Network manages sister sites Sprudge Live and Sprudge Wire. In its first three months of existence, the website was called \"The Sprudge Report\" and a direct visual parody of the Drudge Report.",
+        "business_tags": [
+            "But First Coffee",
+            "Coffee Roasting",
+            "Ready To Drink",
+            "Brew Methods",
+            "Drinks & Coffee",
+            "Special Fundraisers",
+            "Celebrations Cakes",
+            "Summer Designs",
+            "Coffee Equipments",
+            "Summer Drinks"
+        ],
+        "main_business_category": "Coffee & Tea Shops",
+        "main_industry": "Food & Beverage",
+        "main_sector": null,
+        "primary_phone": "+18885577783",
+        "phone_numbers": [
+            "+18885577783"
+        ],
+        "primary_email": "robyn@sprudge.com",
+        "emails": [
+            "books@sprudge.com"
+        ],
+        "other_emails": [
+            "robyn@sprudge.com"
+        ],
+        "website_url": "sprudge.com",
+        "website_domain": "sprudge.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://www.facebook.com/sprudgemedia/",
+        "twitter_url": "https://twitter.com/sprudge",
+        "instagram_url": "https://www.instagram.com/sprudge/",
+        "linkedin_url": "https://linkedin.com/company/sprudge",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": "https://www.youtube.com/user/SeattleCoffeeGear",
+        "cms": "wordpress",
+        "alexa_rank": 142696,
+        "technologies": [
+            "wordpress plugins: mailchimp for wordpress",
+            "widgets: twitter",
+            "javascript libraries: jquery - 1.13.0",
+            "paas: wp engine",
+            "miscellaneous: twitter emoji (twemoji)",
+            "javascript frameworks: jquery migrate - 3.3.2",
+            "font scripts: google font api",
+            "javascript frameworks: modernizr - 2.8.3",
+            "blogging platforms: wordpress",
+            "databases: mysql",
+            "reverse proxy: nginx",
+            "javascript libraries: modernizr - 2.8.3",
+            "font scripts: font awesome",
+            "javascript frameworks: jquery - 1.13.0",
+            "seo tool: facebook friendly",
+            "cms: wordpress",
+            "hosting: wp engine",
+            "lead generation: mailchimp",
+            "tag managers: google tag manager",
+            "issue trackers: trackjs",
+            "retargeting: google remarketing tag",
+            "javascript libraries: jquery migrate - 3.3.2",
+            "email: mailchimp",
+            "seo tool: twitter friendly",
+            "web servers: nginx",
+            "advertising: twitter ads",
+            "programming languages: php",
+            "marketing automation: mailchimp",
+            "analytics: google analytics"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "722515",
+                "label": "Snack and Nonalcoholic Beverage Bars"
+            },
+            "secondary": null
+        },
+        "nace_rev2": [
+            {
+                "code": "56.3",
+                "label": "Beverage serving activities"
+            },
+            {
+                "code": "56.1",
+                "label": "Restaurants and mobile food service activities"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "8017",
+            "9083"
+        ],
+        "sic": [
+            {
+                "code": "5812",
+                "label": "Eating Places (snack and nonalcoholic beverage bars)"
+            },
+            {
+                "code": "5461",
+                "label": "Retail Bakeries (snacks)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "5610",
+                "label": "Restaurants and mobile food service activities"
+            },
+            {
+                "code": "5630",
+                "label": "Beverage serving activities"
+            }
+        ],
+        "sics_industry": {
+            "code": "FB-FR",
+            "label": "Food Retailers & Distributors"
+        },
+        "sics_subsector": {
+            "code": "FB.3",
+            "label": "Food & Beverage Retail"
+        },
+        "sics_sector": {
+            "code": "FB",
+            "label": "Food & Beverage"
+        },
+        "ibc_insurance": [
+            {
+                "code": "204301",
+                "label": "Coffee / Tea / Spice Processing"
+            },
+            {
+                "code": "506001",
+                "label": "Wholesale - Food (Dry and Canned Goods - No Dietary / Health Supplements)"
+            },
+            {
+                "code": "542101",
+                "label": "Retail - Bakeries"
+            },
+            {
+                "code": "581201",
+                "label": "Restaurants (Liquor License - No Live Entertainment / Dancing)"
+            },
+            {
+                "code": "581101",
+                "label": "Restaurants (No Liquor License)"
+            }
+        ],
+        "created_at": "2019-11-24T00:33:35.000Z",
+        "last_updated_at": "2023-08-22T08:33:14.196Z"
+    },
+    {
+        "soleadify_id": "3c3da980-93e5-11eb-b5f6-816dd10ac7b0",
+        "company_name": "Caffe Ladro",
+        "company_legal_names": null,
+        "company_commercial_names": [
+            "Caffe Ladro",
+            "Caffe Ladro-Bellevue"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Washington",
+        "main_city": "Seattle",
+        "main_street": "2nd Avenue West",
+        "main_street_number": "501",
+        "main_postcode": "98119",
+        "main_latitude": 47.62344741821289,
+        "main_longitude": -122.35971069335938,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98103",
+                "street": "North 36th Street",
+                "street_number": "452",
+                "latitude": 47.652130126953125,
+                "longitude": -122.35324096679688
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98109",
+                "street": "Terry Avenue North",
+                "street_number": "300",
+                "latitude": 47.621115599999996,
+                "longitude": -122.33678710276946
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Bothell",
+                "postcode": "98011",
+                "street": "Bothell Way Northeast",
+                "street_number": "18610",
+                "latitude": 47.76299285888672,
+                "longitude": -122.20722198486328
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Lynnwood",
+                "postcode": "98036",
+                "street": "196th Street Southwest",
+                "street_number": "6314",
+                "latitude": 47.820960998535156,
+                "longitude": -122.31896209716797
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Bellevue",
+                "postcode": "98004",
+                "street": "108th Avenue Northeast",
+                "street_number": "333",
+                "latitude": 47.61351013183594,
+                "longitude": -122.1966781616211
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "Los Angeles",
+                "postcode": "90291",
+                "street": "30th Avenue",
+                "street_number": "15",
+                "latitude": 33.980028000000004,
+                "longitude": -118.46695989389046
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98119",
+                "street": "2nd Avenue West",
+                "street_number": "501",
+                "latitude": 47.62344741821289,
+                "longitude": -122.35971069335938
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Issaquah",
+                "postcode": "98029",
+                "street": "10th Avenue Northeast",
+                "street_number": "1200",
+                "latitude": 47.54344940185547,
+                "longitude": -122.01605987548828
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Kirkland",
+                "postcode": "98033",
+                "street": "Urban Plaza",
+                "street_number": "425",
+                "latitude": 47.6785774230957,
+                "longitude": -122.19855499267578
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98101",
+                "street": "2nd Avenue",
+                "street_number": "1201",
+                "latitude": 47.606735549999996,
+                "longitude": -122.33716074464968
+            }
+        ],
+        "num_locations": 19,
+        "company_type": "Private",
+        "year_founded": 1994,
+        "employee_count": 43,
+        "estimated_revenue": 4900000,
+        "short_description": "Caffe Ladro is a coffee shop chain and roastery in the Seattle metropolitan area, in the U. S. state of Washington.",
+        "long_description": "Caffe Ladro is a coffee shop chain and roastery in the Seattle metropolitan area, in the U.S. state of Washington. Established in Seattle's Queen Anne neighborhood in 1994, the business operated fifteen locations as of 2017.",
+        "business_tags": [
+            "Wholesale",
+            "Coffee Offerings",
+            "Roasted Coffee",
+            "Order Coffee",
+            "Freshly Roasted Coffee",
+            "Coffee Shops",
+            "Fresh Baked Goods",
+            "Fair Trade Coffee",
+            "Coffee Roasting",
+            "Coffee Blends"
+        ],
+        "main_business_category": "Coffee & Tea Shops",
+        "main_industry": "Food & Beverage",
+        "main_sector": null,
+        "primary_phone": "+12064578911",
+        "phone_numbers": [
+            "+12066936000",
+            "+12069382271",
+            "+14254675562",
+            "+12064578911",
+            "+12062571869",
+            "+12062821549",
+            "+12063313785",
+            "+12066341356",
+            "+14253919300"
+        ],
+        "primary_email": "orders@caffeladro.com",
+        "emails": [
+            "orders@caffeladro.com",
+            "sales@caffeladro.com"
+        ],
+        "other_emails": null,
+        "website_url": "http://www.caffeladro.com/",
+        "website_domain": "caffeladro.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://www.facebook.com/caffeladrolowerqaseattlewa/",
+        "twitter_url": "https://twitter.com/LadroRoasting",
+        "instagram_url": "https://www.instagram.com/ladroroasting/",
+        "linkedin_url": "https://linkedin.com/company/caffe-ladro",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": null,
+        "cms": "wordpress -  5.8.2",
+        "alexa_rank": null,
+        "technologies": [
+            "wordpress plugins: wpbakery",
+            "miscellaneous: gravity forms - 2.5.15",
+            "analytics: facebook custom audiences",
+            "cms: wordpress -  5.8.2",
+            "web frameworks: microsoft asp.net",
+            "blogging platforms: wordpress -  5.8.2",
+            "ui frameworks: animate.css",
+            "web frameworks: animate.css",
+            "font scripts: google font api",
+            "javascript libraries: modernizr",
+            "databases: mysql",
+            "wordpress plugins: gravity forms - 2.5.15",
+            "page builders: wpbakery",
+            "widgets: facebook",
+            "retargeting: facebook custom audiences",
+            "miscellaneous: geotrust",
+            "font scripts: font awesome",
+            "javascript frameworks: jquery migrate",
+            "web servers: apache",
+            "javascript frameworks: modernizr",
+            "operating systems: windows server",
+            "seo tool: facebook friendly",
+            "javascript frameworks: jquery ui - 1.10.3",
+            "web servers: iis",
+            "javascript libraries: jquery",
+            "widgets: owl carousel",
+            "retargeting: facebook",
+            "javascript graphics: chart.js",
+            "cache tools: varnish - 6.5",
+            "lead generation: gravity forms - 2.5.15",
+            "programming languages: php",
+            "javascript libraries: jquery migrate",
+            "javascript libraries: jquery ui - 1.10.3",
+            "seo tool: yoast seo premium - 15.1.2",
+            "javascript frameworks: jquery",
+            "analytics: google analytics"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "722515",
+                "label": "Snack and Nonalcoholic Beverage Bars"
+            },
+            "secondary": null
+        },
+        "nace_rev2": [
+            {
+                "code": "56.3",
+                "label": "Beverage serving activities"
+            },
+            {
+                "code": "56.1",
+                "label": "Restaurants and mobile food service activities"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "8017",
+            "9083"
+        ],
+        "sic": [
+            {
+                "code": "5812",
+                "label": "Eating Places (snack and nonalcoholic beverage bars)"
+            },
+            {
+                "code": "5461",
+                "label": "Retail Bakeries (snacks)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "5610",
+                "label": "Restaurants and mobile food service activities"
+            },
+            {
+                "code": "5630",
+                "label": "Beverage serving activities"
+            }
+        ],
+        "sics_industry": {
+            "code": "FB-FR",
+            "label": "Food Retailers & Distributors"
+        },
+        "sics_subsector": {
+            "code": "FB.3",
+            "label": "Food & Beverage Retail"
+        },
+        "sics_sector": {
+            "code": "FB",
+            "label": "Food & Beverage"
+        },
+        "ibc_insurance": [
+            {
+                "code": "204301",
+                "label": "Coffee / Tea / Spice Processing"
+            },
+            {
+                "code": "506001",
+                "label": "Wholesale - Food (Dry and Canned Goods - No Dietary / Health Supplements)"
+            },
+            {
+                "code": "542101",
+                "label": "Retail - Bakeries"
+            },
+            {
+                "code": "581201",
+                "label": "Restaurants (Liquor License - No Live Entertainment / Dancing)"
+            },
+            {
+                "code": "581101",
+                "label": "Restaurants (No Liquor License)"
+            }
+        ],
+        "created_at": "2019-11-24T10:26:05.000Z",
+        "last_updated_at": "2023-09-08T14:44:34.000Z"
+    },
+    {
+        "soleadify_id": "3df5e0d4-93e5-11eb-8474-3bbe2d07207d",
+        "company_name": "Black Rifle Coffee",
+        "company_legal_names": [
+            "Black Rifle Coffee Company"
+        ],
+        "company_commercial_names": [
+            "BRCC",
+            "Black Rifle",
+            "Black Rifle Coffee"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Utah",
+        "main_city": "Salt Lake City",
+        "main_street": "South 500 West",
+        "main_street_number": "1144",
+        "main_postcode": "84101",
+        "main_latitude": 40.74365997314453,
+        "main_longitude": -111.90548706054688,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Tennessee",
+                "city": "Sevierville",
+                "postcode": "37862",
+                "street": "Parkway",
+                "street_number": "1836",
+                "latitude": 35.82702179134476,
+                "longitude": -83.57484733958123
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Harker Heights",
+                "postcode": "76548",
+                "street": null,
+                "street_number": null,
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Arizona",
+                "city": "Mesa",
+                "postcode": "85212",
+                "street": "South Power Road",
+                "street_number": "5105",
+                "latitude": 33.3217416,
+                "longitude": -111.686856
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Tennessee",
+                "city": "Clarksville",
+                "postcode": "37040",
+                "street": "Wilma Rudolph Boulevard",
+                "street_number": "2570",
+                "latitude": 36.578451823959995,
+                "longitude": -87.29995246974072
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Benbrook",
+                "postcode": "76126",
+                "street": "Benbrook Boulevard",
+                "street_number": "9001",
+                "latitude": 32.675936,
+                "longitude": -97.466948
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "North Richland Hills",
+                "postcode": "76180",
+                "street": "Rufe Snow Drive",
+                "street_number": "5121",
+                "latitude": 32.84401321411133,
+                "longitude": -97.23880004882812
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Nevada",
+                "city": "Winchester",
+                "postcode": "89109",
+                "street": "Sammy Davis Junior Drive",
+                "street_number": null,
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Midland",
+                "postcode": "79705",
+                "street": "North Big Spring Street",
+                "street_number": "3500",
+                "latitude": 32.032108,
+                "longitude": -102.084318
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Killeen",
+                "postcode": "76549",
+                "street": "South Clear Creek Road",
+                "street_number": "2170",
+                "latitude": 31.1064039,
+                "longitude": -97.802212
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Georgia",
+                "city": "Cherokee County",
+                "postcode": "30188",
+                "street": null,
+                "street_number": null,
+                "latitude": null,
+                "longitude": null
+            }
+        ],
+        "num_locations": 34,
+        "company_type": "Private",
+        "year_founded": 2014,
+        "employee_count": 680,
+        "estimated_revenue": 233100000,
+        "short_description": "Black Rifle Coffee Company (BRCC) is a coffee company based in Salt Lake City, Utah, United States.",
+        "long_description": "Black Rifle Coffee Company (BRCC) is a coffee company based in Salt Lake City, Utah, United States. It gained national attention in 2017, when it employed about 50 people, after pledging to hire 10,000 veterans to protest Starbucks's pledge to hire 10,000 refugees.",
+        "business_tags": [
+            "Premium Coffee",
+            "Black Rifle Coffee",
+            "Medium Roasts",
+            "Coffee Subscriptions",
+            "Ready To Drink",
+            "Coffee Bundles",
+            "Light Roasts",
+            "Coffee Clubs",
+            "Extra Dark Roast",
+            "Cups And Glasses"
+        ],
+        "main_business_category": "Coffee & Tea Shops",
+        "main_industry": "Food & Beverage",
+        "main_sector": "Accommodation & Food Services",
+        "primary_phone": "+13852627184",
+        "phone_numbers": [
+            "+18652865862",
+            "+17572274072",
+            "+12106640900",
+            "+13853837625",
+            "+12108910029",
+            "+12108910374",
+            "+12102393400",
+            "+14352339983",
+            "+12108908296",
+            "+12108910385",
+            "+12548590930",
+            "+18448999330",
+            "+17579371702",
+            "+18503532179",
+            "+18665562722",
+            "+18885296578",
+            "+12108902675",
+            "+12108910042",
+            "+12108905871",
+            "+14705080136",
+            "+12108910389",
+            "+19318028045",
+            "+12108904635",
+            "+13852627184",
+            "+14323153370"
+        ],
+        "primary_email": "info@blackriflecoffee.com",
+        "emails": [
+            "customerservice@blackriflecoffee.com",
+            "ir@blackriflecoffee.com",
+            "info@blackriflecoffee.com"
+        ],
+        "other_emails": [
+            "cherry.hearn@blackriflecoffee.com"
+        ],
+        "website_url": "https://www.blackriflecoffee.com/",
+        "website_domain": "blackriflecoffee.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://facebook.com/blackriflecoffeeco",
+        "twitter_url": "https://twitter.com/blckriflecoffee",
+        "instagram_url": "https://www.instagram.com/blackriflecoffee/",
+        "linkedin_url": "https://linkedin.com/company/black-rifle-coffee-company",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": "https://www.youtube.com/channel/UCnhTGM083kfLSNfRSmQjAzg",
+        "cms": "shopify",
+        "alexa_rank": 130465,
+        "technologies": [
+            "widgets: twitter",
+            "analytics: facebook custom audiences",
+            "cookie compliance: klaro",
+            "ui frameworks: bootstrap",
+            "javascript frameworks: handlebars",
+            "lead generation: adroll",
+            "web frameworks: bootstrap",
+            "javascript libraries: slick",
+            "cms: shopify",
+            "paas: amazon web services",
+            "payment processors: stripe",
+            "javascript frameworks: react",
+            "advertising networks: adroll",
+            "font scripts: google font api",
+            "page builders: unbounce",
+            "javascript libraries: modernizr",
+            "analytics: amplitude",
+            "editors: unbounce",
+            "customer data platform: segment",
+            "widgets: facebook",
+            "font scripts: typekit",
+            "retargeting: facebook custom audiences",
+            "analytics: hubspot analytics",
+            "retargeting: adroll",
+            "lead generation: unbounce",
+            "web servers: apache",
+            "javascript frameworks: modernizr",
+            "seo tool: facebook friendly",
+            "website builders: unbounce",
+            "javascript frameworks: slick",
+            "javascript libraries: jquery - 1.12.4",
+            "miscellaneous: amazon s3",
+            "ecommerce: cart functionality",
+            "tag managers: google tag manager",
+            "javascript frameworks: jquery - 1.12.4",
+            "retargeting: facebook",
+            "advertising: microsoft advertising",
+            "seo tool: twitter friendly",
+            "retargeting: google dynamic remarketing",
+            "cdn: cloudflare",
+            "analytics: segment",
+            "cdn: amazon cloudfront",
+            "ecommerce: shopify",
+            "analytics: google analytics"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "311920",
+                "label": "Coffee and Tea Manufacturing"
+            },
+            "secondary": [
+                {
+                    "code": "445298",
+                    "label": "All Other Specialty Food Retailers"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "10.86",
+                "label": "Manufacture of homogenised food preparations and dietetic food"
+            },
+            {
+                "code": "10.89",
+                "label": "Manufacture of other food products n.e.c."
+            },
+            {
+                "code": "10.84",
+                "label": "Manufacture of condiments and seasonings"
+            },
+            {
+                "code": "10.83",
+                "label": "Processing of tea and coffee"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "6504"
+        ],
+        "sic": [
+            {
+                "code": "2087",
+                "label": "Flavoring Extracts and Flavoring Syrups, NEC (coffee flavoring and syrups)"
+            },
+            {
+                "code": "2099",
+                "label": "Food Preparations, NEC (tea)"
+            },
+            {
+                "code": "2043",
+                "label": "Cereal Breakfast Foods (grain based coffee substitutes)"
+            },
+            {
+                "code": "2095",
+                "label": "Roasted Coffee"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "1079",
+                "label": "Manufacture of other food products n.e.c."
+            }
+        ],
+        "sics_industry": {
+            "code": "FB-FR",
+            "label": "Food Retailers & Distributors"
+        },
+        "sics_subsector": {
+            "code": "FB.3",
+            "label": "Food & Beverage Retail"
+        },
+        "sics_sector": {
+            "code": "FB",
+            "label": "Food & Beverage"
+        },
+        "ibc_insurance": [
+            {
+                "code": "204301",
+                "label": "Coffee / Tea / Spice Processing"
+            },
+            {
+                "code": "506001",
+                "label": "Wholesale - Food (Dry and Canned Goods - No Dietary / Health Supplements)"
+            },
+            {
+                "code": "542101",
+                "label": "Retail - Bakeries"
+            },
+            {
+                "code": "205101",
+                "label": "Baked Goods / Pasta Manufacturing"
+            },
+            {
+                "code": "581201",
+                "label": "Restaurants (Liquor License - No Live Entertainment / Dancing)"
+            }
+        ],
+        "created_at": "2019-11-24T10:31:46.000Z",
+        "last_updated_at": "2023-09-06T18:37:48.471Z"
+    },
+    {
+        "soleadify_id": "1fc80c56-93e5-11eb-86dd-ffbd1b53140e",
+        "company_name": "Stumptown Coffee Roasters",
+        "company_legal_names": [
+            "Stumptown achieves B Corp",
+            "STUMPTOWN COFFEE CORPORATION",
+            "Stumptown Coffee Roasters Inc."
+        ],
+        "company_commercial_names": [
+            "Stumptown Coffee",
+            "Stumptown Coffee Roasters"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Oregon",
+        "main_city": "Portland",
+        "main_street": "Southeast 9th Avenue",
+        "main_street_number": "1311",
+        "main_postcode": "97214",
+        "main_latitude": 45.5133697,
+        "main_longitude": -122.65711419276475,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Oregon",
+                "city": "Portland",
+                "postcode": "97218",
+                "street": "Northeast Airport Way",
+                "street_number": "7000",
+                "latitude": 45.5898202,
+                "longitude": -122.591343
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Oregon",
+                "city": "Portland",
+                "postcode": "97206",
+                "street": "Southeast Division Street",
+                "street_number": "4525",
+                "latitude": 45.50542449951172,
+                "longitude": -122.61556243896484
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "New York",
+                "city": "New York",
+                "postcode": "10011",
+                "street": "West 8th Street",
+                "street_number": "30",
+                "latitude": 40.7328191,
+                "longitude": -73.9979415
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "New York",
+                "city": "New York",
+                "postcode": "11231",
+                "street": "Van Brunt Street",
+                "street_number": "219",
+                "latitude": 40.6808965,
+                "longitude": -74.0085491
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Oregon",
+                "city": "Portland",
+                "postcode": "97214",
+                "street": "Southeast 9th Avenue",
+                "street_number": "1311",
+                "latitude": 45.5133697,
+                "longitude": -122.65711419276475
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Oregon",
+                "city": "Portland",
+                "postcode": "97205",
+                "street": "Southwest Harvey Milk Street",
+                "street_number": "1026",
+                "latitude": 45.522084,
+                "longitude": -122.681766
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98122",
+                "street": "East Pine Street",
+                "street_number": "616",
+                "latitude": 47.6153631,
+                "longitude": -122.3236427
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "Los Angeles",
+                "postcode": "90021",
+                "street": "Santa Fe Avenue",
+                "street_number": "806",
+                "latitude": 34.034067,
+                "longitude": -118.2300501
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Illinois",
+                "city": "Chicago",
+                "postcode": "60607",
+                "street": "North Morgan Street",
+                "street_number": "311",
+                "latitude": 41.8875396,
+                "longitude": -87.6518407
+            }
+        ],
+        "num_locations": 9,
+        "company_type": "Private",
+        "year_founded": 1999,
+        "employee_count": 203,
+        "estimated_revenue": 40000000,
+        "short_description": "Stumptown Coffee Roasters is a coffee roaster and retailer based in Portland, Oregon, United States.",
+        "long_description": "Stumptown Coffee Roasters is a coffee roaster and retailer based in Portland, Oregon, United States. The chain's flagship café and roastery opened in 1999. Three other cafes, a roastery and a tasting annex have since opened in Portland, as well as locations in Seattle, New York, Los Angeles, Chicago, and New Orleans. Stumptown is owned by Peet's Coffee, which in turn is owned by JAB Holding Company. The company was an early innovator with cold brew coffee in nitro cans and have continued to develop other cold brew product innovations.",
+        "business_tags": [
+            "Cold Brew",
+            "Coffee Roasting",
+            "Single Origin Coffee",
+            "Commodities Market",
+            "Brewing Guides",
+            "Freshly Roasted Coffee",
+            "Coffee Beans",
+            "Cold Brew Coffee Makers",
+            "Specialty Coffees"
+        ],
+        "main_business_category": "Coffee & Tea Shops",
+        "main_industry": "Food & Beverage",
+        "main_sector": "Publications",
+        "primary_phone": "+18557113385",
+        "phone_numbers": [
+            "+13472944295",
+            "+15105942950",
+            "+15032307702",
+            "+15038089080",
+            "+15032328889",
+            "+18009992132",
+            "+18557113385",
+            "+18557113390",
+            "+81752299000"
+        ],
+        "primary_email": "info@stumptowncoffee.com",
+        "emails": [
+            "info@stumptowncoffee.com",
+            "jobs@stumptowncoffee.com"
+        ],
+        "other_emails": null,
+        "website_url": "http://www.stumptowncoffee.com/",
+        "website_domain": "stumptowncoffee.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://www.facebook.com/stumptowncoffee/",
+        "twitter_url": "https://twitter.com/stumptowncoffee",
+        "instagram_url": "https://www.instagram.com/stumptowncoffee/",
+        "linkedin_url": "https://linkedin.com/company/stumptown-coffee-roasters",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": null,
+        "cms": "shopify, contentful",
+        "alexa_rank": 252147,
+        "technologies": [
+            "analytics: facebook custom audiences",
+            "cms: shopify",
+            "javascript frameworks: vue.js",
+            "javascript frameworks: react",
+            "cms: contentful",
+            "widgets: facebook",
+            "retargeting: facebook custom audiences",
+            "seo tool: facebook friendly",
+            "tag managers: google tag manager",
+            "retargeting: facebook",
+            "marketing automation: klaviyo",
+            "seo tool: twitter friendly",
+            "cdn: cloudflare",
+            "lead generation: klaviyo",
+            "ecommerce: shopify"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "311920",
+                "label": "Coffee and Tea Manufacturing"
+            },
+            "secondary": [
+                {
+                    "code": "445132",
+                    "label": "Vending Machine Operators"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "10.86",
+                "label": "Manufacture of homogenised food preparations and dietetic food"
+            },
+            {
+                "code": "10.89",
+                "label": "Manufacture of other food products n.e.c."
+            },
+            {
+                "code": "10.84",
+                "label": "Manufacture of condiments and seasonings"
+            },
+            {
+                "code": "10.83",
+                "label": "Processing of tea and coffee"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "6504"
+        ],
+        "sic": [
+            {
+                "code": "2087",
+                "label": "Flavoring Extracts and Flavoring Syrups, NEC (coffee flavoring and syrups)"
+            },
+            {
+                "code": "2099",
+                "label": "Food Preparations, NEC (tea)"
+            },
+            {
+                "code": "2043",
+                "label": "Cereal Breakfast Foods (grain based coffee substitutes)"
+            },
+            {
+                "code": "2095",
+                "label": "Roasted Coffee"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "1079",
+                "label": "Manufacture of other food products n.e.c."
+            }
+        ],
+        "sics_industry": {
+            "code": "FB-FR",
+            "label": "Food Retailers & Distributors"
+        },
+        "sics_subsector": {
+            "code": "FB.3",
+            "label": "Food & Beverage Retail"
+        },
+        "sics_sector": {
+            "code": "FB",
+            "label": "Food & Beverage"
+        },
+        "ibc_insurance": [
+            {
+                "code": "204301",
+                "label": "Coffee / Tea / Spice Processing"
+            },
+            {
+                "code": "506001",
+                "label": "Wholesale - Food (Dry and Canned Goods - No Dietary / Health Supplements)"
+            },
+            {
+                "code": "542101",
+                "label": "Retail - Bakeries"
+            },
+            {
+                "code": "581201",
+                "label": "Restaurants (Liquor License - No Live Entertainment / Dancing)"
+            },
+            {
+                "code": "581101",
+                "label": "Restaurants (No Liquor License)"
+            }
+        ],
+        "created_at": "2019-11-24T00:18:22.000Z",
+        "last_updated_at": "2023-09-06T15:08:13.414Z"
+    },
+    {
+        "soleadify_id": "1ca21439-93e5-11eb-b997-8dd98d09cf25",
+        "company_name": "Cafe Rio",
+        "company_legal_names": [
+            "Cafe Rio Inc."
+        ],
+        "company_commercial_names": [
+            "Cafe Rio",
+            "Cafe Rio Mexican Grill"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Utah",
+        "main_city": "Salt Lake City",
+        "main_street": "Brickyard Road",
+        "main_street_number": "1245",
+        "main_postcode": "84106",
+        "main_latitude": 40.7039033,
+        "main_longitude": -111.8598261,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Nevada",
+                "city": "Las Vegas",
+                "postcode": "89128",
+                "street": "West Lake Mead Boulevard",
+                "street_number": "7664",
+                "latitude": 36.19630813598633,
+                "longitude": -115.26179504394531
+            },
+            {
+                "country_code": "IN",
+                "country": "India",
+                "region": "Maharashtra",
+                "city": "Nandgaon-Khandeshwar",
+                "postcode": "444701",
+                "street": null,
+                "street_number": null,
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Montana",
+                "city": "Missoula",
+                "postcode": "59808",
+                "street": "North Reserve Street",
+                "street_number": "2230",
+                "latitude": 46.885921478271484,
+                "longitude": -114.03668975830078
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Lynnwood",
+                "postcode": "98037",
+                "street": "184th Street Southwest",
+                "street_number": "3000",
+                "latitude": 47.82975769042969,
+                "longitude": -122.2736587524414
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Spokane Valley",
+                "postcode": "99216",
+                "street": "East Indiana Avenue",
+                "street_number": "13920",
+                "latitude": 47.67546463012695,
+                "longitude": -117.21437072753906
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Utah",
+                "city": "Brigham City",
+                "postcode": "84302",
+                "street": null,
+                "street_number": null,
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Utah",
+                "city": "Pleasant Grove",
+                "postcode": "84062",
+                "street": "South North County Boulevard (American Fork)",
+                "street_number": "875",
+                "latitude": 40.372589111328125,
+                "longitude": -111.76927947998047
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Utah",
+                "city": "Tooele",
+                "postcode": "84074",
+                "street": "North Main Street",
+                "street_number": "1205",
+                "latitude": 40.555477142333984,
+                "longitude": -112.29751586914062
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Idaho",
+                "city": "Madison County",
+                "postcode": "83440",
+                "street": null,
+                "street_number": null,
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Virginia",
+                "city": "Ashburn",
+                "postcode": "20148",
+                "street": "Ashbrook Marketplace Plaza",
+                "street_number": "44170",
+                "latitude": 39.06184768676758,
+                "longitude": -77.47327423095703
+            }
+        ],
+        "num_locations": 149,
+        "company_type": "Private",
+        "year_founded": 1997,
+        "employee_count": 722,
+        "estimated_revenue": 215000000,
+        "short_description": "Cafe Rio, or Cafe Rio Mexican Grill, is an American fast casual restaurant chain based in Salt Lake City, with branches in Arizona, California, Colorado, Idaho, Maryland, Montana, Nevada, Utah, Virginia, Washington, and Wyoming.",
+        "long_description": "Cafe Rio, or Cafe Rio Mexican Grill, is an American fast casual restaurant chain based in Salt Lake City, with branches in Arizona, California, Colorado, Idaho, Maryland, Montana, Nevada, Utah, Virginia, Washington, and Wyoming. The company specializes in Mexican cuisine. Its menu includes appetizers, tostadas, salads, burritos, desserts, enchiladas, tacos, quesadillas, soups, and beverages. The company also provides catering services. In October 2017, the chain had 120 locations. In April 2022, it has grown to 146 locations.",
+        "business_tags": [
+            "Mexican Food",
+            "Fresh Ingredients",
+            "Fresh Vegetables",
+            "Simmer Sauces",
+            "Fresh Foods",
+            "Microwaves",
+            "Fast Casual Restaurants",
+            "Mexican Restaurants",
+            "Packaged Meals",
+            "Mexican Cuisine"
+        ],
+        "main_business_category": "Mexican Restaurants",
+        "main_industry": "Food & Beverage",
+        "main_sector": "Accommodation & Food Services",
+        "primary_phone": "+18014415000",
+        "phone_numbers": [
+            "+18014415000",
+            "+18002233746",
+            "+18886601643",
+            "+18014415032",
+            "+18886001643"
+        ],
+        "primary_email": "customercare@caferio.com",
+        "emails": [
+            "customercare@caferio.com",
+            "privacyofficer@caferio.com"
+        ],
+        "other_emails": [
+            "u003egiftcards@caferio.com",
+            "giftcards@caferio.com",
+            "u003etermsofuse@caferio.com",
+            "termsofuse@caferio.com"
+        ],
+        "website_url": "caferio.com",
+        "website_domain": "caferio.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://www.facebook.com/CafeRio/",
+        "twitter_url": "https://twitter.com/caferio",
+        "instagram_url": "https://www.instagram.com/caferio/",
+        "linkedin_url": "https://linkedin.com/company/cafe-rio",
+        "ios_app_url": "tps://apps.apple.com/us/app/cafe-rio/id9665698",
+        "android_app_url": "tps://play.google.com/store/apps/details?id=com.punchh.caferio&hl=",
+        "youtube_url": null,
+        "cms": null,
+        "alexa_rank": 73884,
+        "technologies": [
+            "analytics: google analytics",
+            "tag managers: google tag manager"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "722511",
+                "label": "Full-Service Restaurants"
+            },
+            "secondary": [
+                {
+                    "code": "722330",
+                    "label": "Mobile Food Services"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "56.1",
+                "label": "Restaurants and mobile food service activities"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "9082"
+        ],
+        "sic": [
+            {
+                "code": "5812",
+                "label": "Eating Places (full-service restaurants)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "5610",
+                "label": "Restaurants and mobile food service activities"
+            }
+        ],
+        "sics_industry": {
+            "code": "FB-RN",
+            "label": "Restaurants"
+        },
+        "sics_subsector": {
+            "code": "FB.4",
+            "label": "Restaurants"
+        },
+        "sics_sector": {
+            "code": "FB",
+            "label": "Food & Beverage"
+        },
+        "ibc_insurance": [
+            {
+                "code": "581201",
+                "label": "Restaurants (Liquor License - No Live Entertainment / Dancing)"
+            },
+            {
+                "code": "581101",
+                "label": "Restaurants (No Liquor License)"
+            },
+            {
+                "code": "581401",
+                "label": "Restaurants (Take Out / Delivery - No Table Service)"
+            },
+            {
+                "code": "581402",
+                "label": "Restaurants (Food Court / Food Truck / Food Cart - No Canteen Trucks)"
+            },
+            {
+                "code": "740201",
+                "label": "Catering (No Liquor Serving)"
+            }
+        ],
+        "created_at": "2019-11-24T11:40:27.000Z",
+        "last_updated_at": "2023-08-18T19:36:03.826Z"
+    },
+    {
+        "soleadify_id": "efee98f0-93e4-11eb-8859-29e7c34dee35",
+        "company_name": "Curry Up Now",
+        "company_legal_names": null,
+        "company_commercial_names": [
+            "Curry Up Now"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "California",
+        "main_city": "San Jose",
+        "main_street": "Zanker Road",
+        "main_street_number": "3250",
+        "main_postcode": "95134",
+        "main_latitude": 37.402427673339844,
+        "main_longitude": -121.93305969238281,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "New Jersey",
+                "city": "Hoboken",
+                "postcode": "07030",
+                "street": "Washington Street",
+                "street_number": "91",
+                "latitude": 40.73704147338867,
+                "longitude": -74.03070831298828
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "Palo Alto",
+                "postcode": "94301",
+                "street": "Hamilton Avenue",
+                "street_number": "321",
+                "latitude": 37.44546890258789,
+                "longitude": -122.16018676757812
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "San Diego",
+                "postcode": "92093",
+                "street": "Gilman Drive",
+                "street_number": "9500",
+                "latitude": 32.879241943359375,
+                "longitude": -117.23112487792969
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Georgia",
+                "city": "Atlanta",
+                "postcode": "30316",
+                "street": "Memorial Drive Southeast",
+                "street_number": "915",
+                "latitude": 33.74650192260742,
+                "longitude": -84.35759735107422
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Dallas",
+                "postcode": "75206",
+                "street": "East Mockingbird Lane",
+                "street_number": "5665",
+                "latitude": 32.83814239501953,
+                "longitude": -96.77062225341797
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "San Ramon",
+                "postcode": "94583",
+                "street": "Bollinger Canyon Road",
+                "street_number": "6000",
+                "latitude": 37.762935638427734,
+                "longitude": -121.95980834960938
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "South San Francisco",
+                "postcode": "94080",
+                "street": "South Maple Avenue",
+                "street_number": "315",
+                "latitude": 37.64244842529297,
+                "longitude": -122.41777801513672
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "San Mateo",
+                "postcode": "94401",
+                "street": null,
+                "street_number": null,
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "Irvine",
+                "postcode": "92618",
+                "street": "Spectrum Center Drive",
+                "street_number": "922",
+                "latitude": 33.65378189086914,
+                "longitude": -117.74400329589844
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "San Francisco",
+                "postcode": "94110",
+                "street": "Valencia Street",
+                "street_number": "659",
+                "latitude": 37.7623405456543,
+                "longitude": -122.42139434814453
+            }
+        ],
+        "num_locations": 16,
+        "company_type": "Private",
+        "year_founded": 2009,
+        "employee_count": 70,
+        "estimated_revenue": 13800000,
+        "short_description": "Curry Up Now is an Indian fast casual food brand based in San Francisco, California, United States.",
+        "long_description": "Curry Up Now is an Indian fast casual food brand based in San Francisco, California, United States. It was founded by Rana Kapoor and Akash Kapoor in 2009.",
+        "business_tags": [
+            "Catering & Events",
+            "Food Trucks",
+            "Food Truck & Catering",
+            "Franchise",
+            "Indian Street Food",
+            "Delivery & Pickup",
+            "National Shipping",
+            "Catering Menu",
+            "Mortars & Pestles",
+            "Things To Eat"
+        ],
+        "main_business_category": "Indian Restaurants",
+        "main_industry": "Food & Beverage",
+        "main_sector": "Services",
+        "primary_phone": "+14155043631",
+        "phone_numbers": [
+            "+14155043631",
+            "+16504257682"
+        ],
+        "primary_email": "info@curryupnow.com",
+        "emails": [
+            "catering@curryupnow.com",
+            "info@curryupnow.com",
+            "pr@curryupnow.com"
+        ],
+        "other_emails": null,
+        "website_url": "https://www.curryupnow.com/",
+        "website_domain": "curryupnow.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://facebook.com/curryupnow",
+        "twitter_url": "https://twitter.com/curryupnow",
+        "instagram_url": "https://instagram.com/curryupnow",
+        "linkedin_url": "https://linkedin.com/company/curry-up-now",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": null,
+        "cms": "squarespace, wordpress",
+        "alexa_rank": 235300,
+        "technologies": [
+            "analytics: callrail",
+            "website builders: squarespace",
+            "analytics: facebook custom audiences",
+            "lead generation: adroll",
+            "cms: squarespace",
+            "ecommerce: squarespace commerce",
+            "advertising networks: adroll",
+            "font scripts: google font api",
+            "blogging platforms: wordpress",
+            "databases: mysql",
+            "advertising: taboola",
+            "widgets: facebook",
+            "retargeting: facebook custom audiences",
+            "retargeting: callrail",
+            "web frameworks: bootstrap - 3.4.0",
+            "retargeting: adroll",
+            "seo tool: facebook friendly",
+            "cms: wordpress",
+            "ecommerce: cart functionality",
+            "cookie compliance: adroll cmp system",
+            "tag managers: google tag manager",
+            "retargeting: google remarketing tag",
+            "ui frameworks: bootstrap - 3.4.0",
+            "retargeting: facebook",
+            "javascript libraries: jquery - 1.11.1",
+            "analytics: facebook pixel",
+            "javascript frameworks: jquery - 1.11.1",
+            "seo tool: twitter friendly",
+            "programming languages: php",
+            "analytics: google analytics"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "722330",
+                "label": "Mobile Food Services"
+            },
+            "secondary": [
+                {
+                    "code": "722511",
+                    "label": "Full-Service Restaurants"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "56.3",
+                "label": "Beverage serving activities"
+            },
+            {
+                "code": "56.1",
+                "label": "Restaurants and mobile food service activities"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "9083"
+        ],
+        "sic": [
+            {
+                "code": "5963",
+                "label": "Direct Selling Establishments (mobile food services and food wagons)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "5610",
+                "label": "Restaurants and mobile food service activities"
+            },
+            {
+                "code": "5630",
+                "label": "Beverage serving activities"
+            }
+        ],
+        "sics_industry": {
+            "code": "FB-RN",
+            "label": "Restaurants"
+        },
+        "sics_subsector": {
+            "code": "FB.4",
+            "label": "Restaurants"
+        },
+        "sics_sector": {
+            "code": "FB",
+            "label": "Food & Beverage"
+        },
+        "ibc_insurance": [
+            {
+                "code": "730101",
+                "label": "Restaurant Cooking / Exhaust Systems Maintenance / Cleaning"
+            },
+            {
+                "code": "581201",
+                "label": "Restaurants (Liquor License - No Live Entertainment / Dancing)"
+            },
+            {
+                "code": "581101",
+                "label": "Restaurants (No Liquor License)"
+            },
+            {
+                "code": "581401",
+                "label": "Restaurants (Take Out / Delivery - No Table Service)"
+            },
+            {
+                "code": "581402",
+                "label": "Restaurants (Food Court / Food Truck / Food Cart - No Canteen Trucks)"
+            }
+        ],
+        "created_at": "2019-11-23T23:28:20.000Z",
+        "last_updated_at": "2023-07-07T20:08:19.000Z"
+    },
+    null,
+    null,
+    {
+        "soleadify_id": "097b6e1d-93e5-11eb-a736-0f5b20ecb2f1",
+        "company_name": "Beauty Brands",
+        "company_legal_names": null,
+        "company_commercial_names": [
+            "Beauty Brands"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Missouri",
+        "main_city": "Kansas City",
+        "main_street": "Northwest Barry Road",
+        "main_street_number": "6519",
+        "main_postcode": "64154",
+        "main_latitude": 39.24566650390625,
+        "main_longitude": -94.65453338623047,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Missouri",
+                "city": "Independence",
+                "postcode": "64057",
+                "street": "East Jackson Drive",
+                "street_number": "20200",
+                "latitude": 39.042362213134766,
+                "longitude": -94.34236907958984
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Kansas",
+                "city": "Lawrence",
+                "postcode": "66047",
+                "street": "Clinton Parkway",
+                "street_number": "3514",
+                "latitude": 38.9432487487793,
+                "longitude": -95.28205871582031
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Iowa",
+                "city": "Clive",
+                "postcode": "50325",
+                "street": "University Avenue",
+                "street_number": "10001",
+                "latitude": 41.600914001464844,
+                "longitude": -93.75492858886719
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Missouri",
+                "city": "Kansas City",
+                "postcode": "64154",
+                "street": "Northwest Barry Road",
+                "street_number": "6519",
+                "latitude": 39.24566650390625,
+                "longitude": -94.65453338623047
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Missouri",
+                "city": "Saint Peters",
+                "postcode": "63304",
+                "street": "Mid Rivers Mall Drive",
+                "street_number": "6183",
+                "latitude": 38.74159240722656,
+                "longitude": -90.63465118408203
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Illinois",
+                "city": "Edwardsville",
+                "postcode": "62025",
+                "street": "Edwardsville Crossing Drive",
+                "street_number": "6659",
+                "latitude": 38.788963317871094,
+                "longitude": -89.95429229736328
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Missouri",
+                "city": "Brentwood",
+                "postcode": "63144",
+                "street": "Eager Road",
+                "street_number": "8582",
+                "latitude": 38.629150390625,
+                "longitude": -90.34107971191406
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Missouri",
+                "city": "Lee's Summit",
+                "postcode": "64086",
+                "street": "Northwest Blue Parkway",
+                "street_number": "860a",
+                "latitude": 38.929664611816406,
+                "longitude": -94.40069580078125
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Waco",
+                "postcode": "76711",
+                "street": "Marketplace Drive",
+                "street_number": "2325",
+                "latitude": 31.501073837280273,
+                "longitude": -97.16207885742188
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Kansas",
+                "city": "Shawnee",
+                "postcode": "66217",
+                "street": "Shawnee Mission Parkway",
+                "street_number": "15320",
+                "latitude": 39.0102424621582,
+                "longitude": -94.76422882080078
+            }
+        ],
+        "num_locations": 33,
+        "company_type": "Private",
+        "year_founded": 1995,
+        "employee_count": 1900,
+        "estimated_revenue": 6900000,
+        "short_description": "At that time, Beauty Brands was the first retail company to combine a full-service salon and spa within a dynamic retail store, a revolutionary concept in the beauty industry in the mid 90's.",
+        "long_description": "Beauty Brands Inc. is a salon and spa superstore developed and founded by the advertising company, Bernstein-Rein. The company headquarters is located in Kansas City, Missouri. The company was purchased in November 2013 by a private California-based company replacing Bob Bernstein and David Bernstein with Lyn Kirby as the CEO and Rich Bos as President respectively.",
+        "business_tags": [
+            "Skin Care",
+            "Hair Product",
+            "Bath & Body",
+            "Hair Styling Products",
+            "Body Moisturizers",
+            "Beauty Brands",
+            "Shampoo And Conditioner",
+            "Brushes & Tools",
+            "Styling Aid",
+            "Hair Styling Tools"
+        ],
+        "main_business_category": "Beauty Salons",
+        "main_industry": "Beauty",
+        "main_sector": null,
+        "primary_phone": "+18776402248",
+        "phone_numbers": [
+            "+18776402248"
+        ],
+        "primary_email": null,
+        "emails": null,
+        "other_emails": null,
+        "website_url": "http://beautybrands.com/",
+        "website_domain": "beautybrands.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://facebook.com/beautybrands",
+        "twitter_url": "https://twitter.com/beautybrands",
+        "instagram_url": null,
+        "linkedin_url": "https://linkedin.com/company/beauty-brands",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": null,
+        "cms": null,
+        "alexa_rank": null,
+        "technologies": [
+            "payment processors: paypal",
+            "personalisation: kibo personalization",
+            "analytics: facebook custom audiences",
+            "ecommerce: salesforce commerce cloud",
+            "ui frameworks: animate.css",
+            "web frameworks: animate.css",
+            "lead generation: salesforce",
+            "crm: salesforce",
+            "widgets: facebook",
+            "retargeting: facebook custom audiences",
+            "customer data platform: listrak",
+            "seo tool: facebook friendly",
+            "javascript libraries: jquery - 1.12.4",
+            "ecommerce: cart functionality",
+            "a/b testing: kibo personalization",
+            "tag managers: google tag manager",
+            "advertising: thetradedesk",
+            "javascript frameworks: jquery - 1.12.4",
+            "reviews: powerreviews",
+            "retargeting: facebook",
+            "marketing automation: bounce exchange",
+            "analytics: pinterest conversion tag",
+            "analytics: facebook pixel",
+            "advertising: microsoft advertising",
+            "retargeting: google dynamic remarketing",
+            "cdn: cloudflare",
+            "analytics: google analytics"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "812112",
+                "label": "Beauty Salons"
+            },
+            "secondary": null
+        },
+        "nace_rev2": [
+            {
+                "code": "96.02",
+                "label": "Hairdressing and other beauty treatment"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "9586"
+        ],
+        "sic": [
+            {
+                "code": "7231",
+                "label": "Beauty Shops (except beauty and cosmetology schools and manicure and pedicure salons)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "9602",
+                "label": "Hairdressing and other beauty treatment"
+            }
+        ],
+        "sics_industry": {
+            "code": "CG-MR",
+            "label": "Multiline and Specialty Retailers & Distributors"
+        },
+        "sics_subsector": {
+            "code": "CG.3",
+            "label": "Consumer Goods Retail"
+        },
+        "sics_sector": {
+            "code": "CG",
+            "label": "Consumer Goods"
+        },
+        "ibc_insurance": [
+            {
+                "code": "283201",
+                "label": "Cosmetics / Perfumes / Hair / Skin Preparations Manufacturing"
+            },
+            {
+                "code": "503201",
+                "label": "Wholesale - Cosmetics"
+            },
+            {
+                "code": "522401",
+                "label": "Wholesale - Beauty Supply / Barber Supply"
+            },
+            {
+                "code": "729601",
+                "label": "Beauty Parlours / Barber Shops (Hairstyling / Manicures / Pedicures Only, No Estheticians)"
+            },
+            {
+                "code": "599001",
+                "label": "Retail - Not Otherwise Classified"
+            }
+        ],
+        "created_at": "2019-11-23T23:07:23.000Z",
+        "last_updated_at": "2023-08-20T07:56:09.000Z"
+    },
+    {
+        "soleadify_id": "f1b43dc2-93e4-11eb-a746-fdabd18be9c6",
+        "company_name": "Hair Fairies",
+        "company_legal_names": [
+            "Hair Fairies Inc."
+        ],
+        "company_commercial_names": [
+            "Hair Fairies"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "California",
+        "main_city": "Los Angeles",
+        "main_street": "West 3rd Street",
+        "main_street_number": "8250",
+        "main_postcode": "90048",
+        "main_latitude": 34.0725156,
+        "main_longitude": -118.3694176,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "Los Angeles",
+                "postcode": "90048",
+                "street": "West 3rd Street",
+                "street_number": "8250",
+                "latitude": 34.0725156,
+                "longitude": -118.3694176
+            }
+        ],
+        "num_locations": 1,
+        "company_type": "Private",
+        "year_founded": 1999,
+        "employee_count": 50,
+        "estimated_revenue": null,
+        "short_description": "Emilio is running our mobile services, and our San Diego location will be opening soon.",
+        "long_description": "Hair Fairies is a chain of clinical salons dedicated to the removal of head lice. The company's headquarters are located in Los Angeles, California, and there are Hair Fairies stores in Los Angeles, San Francisco, San Diego, New York City, Fairfield, Burlingame, Seattle, Portland, Dallas, Chicago, and Atlanta. Hair Fairies features a range of natural, non-toxic products that include such ingredients as rosemary, aloe vera, lavender and peppermint oil. Hair Fairies was founded in 1999 by Maria Botham, who is currently the company President.",
+        "business_tags": [
+            "Home Treatments",
+            "Head Lice",
+            "Lice Treatment",
+            "Peppermint Oil",
+            "Non Toxic",
+            "Aloe Vera"
+        ],
+        "main_business_category": "Hair Removal Service",
+        "main_industry": "Beauty",
+        "main_sector": "Healthcare Services",
+        "primary_phone": "+13236496773",
+        "phone_numbers": [
+            "+18772850069",
+            "+17047505307",
+            "+14159688403",
+            "+18584595423",
+            "+14159688406",
+            "+13236496773",
+            "+16197285423"
+        ],
+        "primary_email": "info@hairfairies.com",
+        "emails": [
+            "info@hairfairies.com"
+        ],
+        "other_emails": null,
+        "website_url": "https://hairfairies.com/hf2/",
+        "website_domain": "hairfairies.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://www.facebook.com/HairFairies/",
+        "twitter_url": "https://twitter.com/hairfairiesinc",
+        "instagram_url": "https://www.instagram.com/hairfairiesinc/",
+        "linkedin_url": "https://linkedin.com/company/hair-fairies-inc.",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": "https://www.youtube.com/user/hairfairies",
+        "cms": "wordpress",
+        "alexa_rank": null,
+        "technologies": [
+            "analytics: callrail",
+            "paas: siteground",
+            "analytics: facebook custom audiences",
+            "ecommerce: woocommerce",
+            "font scripts: google font api",
+            "blogging platforms: wordpress",
+            "video players: youtube",
+            "databases: mysql",
+            "reverse proxy: nginx",
+            "widgets: facebook",
+            "retargeting: facebook custom audiences",
+            "analytics: hubspot analytics",
+            "wordpress plugins: draftpress hfcm",
+            "retargeting: callrail",
+            "captchas: recaptcha",
+            "font scripts: font awesome",
+            "seo tool: facebook friendly",
+            "javascript frameworks: fancybox",
+            "wordpress plugins: woocommerce",
+            "cms: wordpress",
+            "javascript libraries: fancybox",
+            "ecommerce: cart functionality",
+            "tag managers: google tag manager",
+            "issue trackers: trackjs",
+            "javascript libraries: jquery",
+            "retargeting: facebook",
+            "hosting: siteground",
+            "seo tool: twitter friendly",
+            "web servers: nginx",
+            "programming languages: php",
+            "analytics: lucky orange",
+            "javascript frameworks: jquery",
+            "analytics: google analytics"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "812112",
+                "label": "Beauty Salons"
+            },
+            "secondary": null
+        },
+        "nace_rev2": [
+            {
+                "code": "96.02",
+                "label": "Hairdressing and other beauty treatment"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "9586"
+        ],
+        "sic": [
+            {
+                "code": "7231",
+                "label": "Beauty Shops (except beauty and cosmetology schools and manicure and pedicure salons)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "9602",
+                "label": "Hairdressing and other beauty treatment"
+            }
+        ],
+        "sics_industry": {
+            "code": "SV-PS",
+            "label": "Professional & Commercial Services"
+        },
+        "sics_subsector": {
+            "code": "SV.3",
+            "label": "Consumer Services"
+        },
+        "sics_sector": {
+            "code": "SV",
+            "label": "Services"
+        },
+        "ibc_insurance": [
+            {
+                "code": "283201",
+                "label": "Cosmetics / Perfumes / Hair / Skin Preparations Manufacturing"
+            },
+            {
+                "code": "522401",
+                "label": "Wholesale - Beauty Supply / Barber Supply"
+            },
+            {
+                "code": "729601",
+                "label": "Beauty Parlours / Barber Shops (Hairstyling / Manicures / Pedicures Only, No Estheticians)"
+            },
+            {
+                "code": "729701",
+                "label": "Beauty Salons / Day Spas / Estheticians"
+            },
+            {
+                "code": "599001",
+                "label": "Retail - Not Otherwise Classified"
+            }
+        ],
+        "created_at": "2019-11-23T23:55:41.000Z",
+        "last_updated_at": "2023-07-08T03:02:20.000Z"
+    },
+    {
+        "soleadify_id": "b41edc4a-93e4-11eb-a33a-a3dfba582839",
+        "company_name": "Saladino's",
+        "company_legal_names": [
+            "Saladino's Inc."
+        ],
+        "company_commercial_names": [
+            "Saladino's",
+            "Saladino's Foodservice"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "California",
+        "main_city": "Fresno",
+        "main_street": "North Figarden Drive",
+        "main_street_number": "3325",
+        "main_postcode": "93711",
+        "main_latitude": 36.82331466674805,
+        "main_longitude": -119.85033416748047,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "California",
+                "city": "Fresno",
+                "postcode": "93711",
+                "street": "North Figarden Drive",
+                "street_number": "3325",
+                "latitude": 36.82331466674805,
+                "longitude": -119.85033416748047
+            }
+        ],
+        "num_locations": 1,
+        "company_type": "Private",
+        "year_founded": 1980,
+        "employee_count": null,
+        "estimated_revenue": null,
+        "short_description": "At Saladino’s, we deliver more than foodservice products. We deliver solutions to your unique restaurant challenges.",
+        "long_description": "Saladino's Foodservice is a privately owned foodservice distributor based in Fresno, California. They are currently the largest independent foodservice distributor in California, and the 19th largest foodservice distributor in the United States.",
+        "business_tags": [
+            "Food Service",
+            "Food Service Products",
+            "Foodservice Distributors",
+            "Market Reports",
+            "Food Safety",
+            "Restaurant Products",
+            "Environmental Sustainability",
+            "Grocery Store",
+            "A Tradition Of Trust",
+            "Family Dining Restaurants"
+        ],
+        "main_business_category": "Fruit & Vegetable - Markets & Stores",
+        "main_industry": "Food & Beverage",
+        "main_sector": "Wholesale",
+        "primary_phone": "+18002488089",
+        "phone_numbers": [
+            "+15592713700",
+            "+15592713701",
+            "+18002488089",
+            "+18002848089"
+        ],
+        "primary_email": "legal@saladinos.com",
+        "emails": [
+            "help.gs1@saladinos.com",
+            "legal@saladinos.com",
+            "privacy@saladinos.com"
+        ],
+        "other_emails": null,
+        "website_url": "https://www.saladinos.com/",
+        "website_domain": "saladinos.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://www.facebook.com/SaladinosFoodservice/",
+        "twitter_url": "https://twitter.com/Saladinos",
+        "instagram_url": "https://www.instagram.com/saladinosfoodservice/",
+        "linkedin_url": "https://www.linkedin.com/company/saladinos-foodservice",
+        "ios_app_url": "tps://itunes.apple.com/us/app/saladinos-mobile/id1099141036?mt",
+        "android_app_url": "tps://play.google.com/store/apps/details?id=com.retalix.powermobile.saladinos&hl=",
+        "youtube_url": "https://www.youtube.com/channel/UCQyx190dIefmgVKZdGoBlRQ",
+        "cms": "wix",
+        "alexa_rank": null,
+        "technologies": [
+            "issue trackers: sentry - 6.18.2",
+            "javascript libraries: lodash",
+            "javascript frameworks: requirejs",
+            "javascript frameworks: react",
+            "javascript frameworks: lo-dash",
+            "website builders: wix",
+            "cms: wix",
+            "ui frameworks: bootstrap - 2",
+            "web frameworks: bootstrap - 2",
+            "seo tool: facebook friendly",
+            "javascript libraries: jquery",
+            "cdn: google cloud",
+            "seo tool: twitter friendly",
+            "javascript libraries: polyfill",
+            "javascript frameworks: jquery"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "424410",
+                "label": "General Line Grocery Merchant Wholesalers"
+            },
+            "secondary": [
+                {
+                    "code": "424490",
+                    "label": "Other Grocery and Related Products Merchant Wholesalers"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "46.31",
+                "label": "Wholesale of fruit and vegetables"
+            },
+            {
+                "code": "46.32",
+                "label": "Wholesale of meat and meat products"
+            },
+            {
+                "code": "46.39",
+                "label": "Non-specialised wholesale of food, beverages and tobacco"
+            },
+            {
+                "code": "46.35",
+                "label": "Wholesale of tobacco products"
+            },
+            {
+                "code": "46.33",
+                "label": "Wholesale of dairy products, eggs and edible oils and fats"
+            },
+            {
+                "code": "46.34",
+                "label": "Wholesale of beverages"
+            },
+            {
+                "code": "46.38",
+                "label": "Wholesale of other food, including fish, crustaceans and molluscs"
+            },
+            {
+                "code": "46.36",
+                "label": "Wholesale of sugar and chocolate and sugar confectionery"
+            },
+            {
+                "code": "46.37",
+                "label": "Wholesale of coffee, tea, cocoa and spices"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "8018"
+        ],
+        "sic": [
+            {
+                "code": "5141",
+                "label": "Groceries, General Line (merchant wholesalers except those selling general line groceries via retail method)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "4630",
+                "label": "Wholesale of food, beverages and tobacco"
+            }
+        ],
+        "sics_industry": {
+            "code": "RT-IG",
+            "label": "Industrial Machinery & Goods"
+        },
+        "sics_subsector": {
+            "code": "RT.1",
+            "label": "Industrials"
+        },
+        "sics_sector": {
+            "code": "RT",
+            "label": "Resource Transformation"
+        },
+        "ibc_insurance": [
+            {
+                "code": "543301",
+                "label": "Retail - Specialty Food Stores (Not Otherwise Classified)"
+            },
+            {
+                "code": "506301",
+                "label": "Wholesale - Produce (Fruits / Vegetables)"
+            },
+            {
+                "code": "541001",
+                "label": "Retail - Grocery"
+            },
+            {
+                "code": "543302",
+                "label": "Retail - Butcher Shop"
+            },
+            {
+                "code": "506201",
+                "label": "Wholesale - Meat / Fish / Poultry"
+            }
+        ],
+        "created_at": "2019-11-24T11:44:55.000Z",
+        "last_updated_at": "2023-07-08T05:37:02.000Z"
+    },
+    {
+        "soleadify_id": "118ba395-93e5-11eb-b89f-536884b3e7dd",
+        "company_name": "Associated Food Stores",
+        "company_legal_names": null,
+        "company_commercial_names": [
+            "Associated Food Stores"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Utah",
+        "main_city": "Salt Lake City",
+        "main_street": "West 2100 South",
+        "main_street_number": "1850",
+        "main_postcode": "84119",
+        "main_latitude": 40.7259802,
+        "main_longitude": -112.0349353,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Utah",
+                "city": "Farr West",
+                "postcode": "84404",
+                "street": "North 1850 West",
+                "street_number": "2400",
+                "latitude": 41.3053678,
+                "longitude": -112.0243856
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Utah",
+                "city": "Salt Lake City",
+                "postcode": "84119",
+                "street": "West 2100 South",
+                "street_number": "1850",
+                "latitude": 40.7259802,
+                "longitude": -112.0349353
+            }
+        ],
+        "num_locations": 2,
+        "company_type": "Private",
+        "year_founded": 1940,
+        "employee_count": 1400,
+        "estimated_revenue": null,
+        "short_description": "Since 1940, our independent supermarket owners’ have combined the freshest groceries, low prices and unmatched customer service to provide the best shopping experience available.",
+        "long_description": "Associated Food Stores is an American retailers cooperative that supplies about 500 independently owned retail supermarkets throughout Utah, Arizona, Idaho, Colorado, Montana, Oregon, Nevada, and Wyoming.",
+        "business_tags": [
+            "Fresh Markets",
+            "Food Service",
+            "Graphics Designers",
+            "Retail Market",
+            "Advertising & Graphic Design",
+            "Distribution Center",
+            "Print & Web Marketing",
+            "Digital Marketing",
+            "Individuals & Businesses",
+            "Social Media Services"
+        ],
+        "main_business_category": "Fruit & Vegetable - Markets & Stores",
+        "main_industry": "Food & Beverage",
+        "main_sector": null,
+        "primary_phone": "+18019734400",
+        "phone_numbers": [
+            "+14699347131",
+            "+18019788948",
+            "+18017868888",
+            "+18019161070",
+            "+18887105103",
+            "+18015051457",
+            "+18019788452",
+            "+18005749000",
+            "+18012625001",
+            "+18885747100",
+            "+18019734400"
+        ],
+        "primary_email": "info@afstores.com",
+        "emails": [
+            "info@afstores.com"
+        ],
+        "other_emails": [
+            "scpettit@afstores.com",
+            "rtmickelson@afstores.com"
+        ],
+        "website_url": "https://www.afstores.com/",
+        "website_domain": "afstores.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://www.facebook.com/AssociatedFoodStores/",
+        "twitter_url": null,
+        "instagram_url": "https://instagram.com/associated.food.stores",
+        "linkedin_url": "https://www.linkedin.com/company/associated-food-stores",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": "https://www.youtube.com/user/AssociatedFoodStores/",
+        "cms": "wordpress",
+        "alexa_rank": null,
+        "technologies": [
+            "web servers: microsoft httpapi - 2.0",
+            "iaas: azure active directory b2b",
+            "web frameworks: microsoft asp.net",
+            "font scripts: google font api",
+            "blogging platforms: wordpress",
+            "databases: mysql",
+            "captchas: recaptcha",
+            "miscellaneous: swiper slider",
+            "web servers: apache",
+            "operating systems: windows server",
+            "seo tool: facebook friendly",
+            "cms: wordpress",
+            "web servers: iis",
+            "javascript libraries: jquery",
+            "seo tool: twitter friendly",
+            "programming languages: php",
+            "page builders: elementor",
+            "javascript frameworks: jquery"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "424410",
+                "label": "General Line Grocery Merchant Wholesalers"
+            },
+            "secondary": [
+                {
+                    "code": "424490",
+                    "label": "Other Grocery and Related Products Merchant Wholesalers"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "46.31",
+                "label": "Wholesale of fruit and vegetables"
+            },
+            {
+                "code": "46.32",
+                "label": "Wholesale of meat and meat products"
+            },
+            {
+                "code": "46.39",
+                "label": "Non-specialised wholesale of food, beverages and tobacco"
+            },
+            {
+                "code": "46.35",
+                "label": "Wholesale of tobacco products"
+            },
+            {
+                "code": "46.33",
+                "label": "Wholesale of dairy products, eggs and edible oils and fats"
+            },
+            {
+                "code": "46.34",
+                "label": "Wholesale of beverages"
+            },
+            {
+                "code": "46.38",
+                "label": "Wholesale of other food, including fish, crustaceans and molluscs"
+            },
+            {
+                "code": "46.36",
+                "label": "Wholesale of sugar and chocolate and sugar confectionery"
+            },
+            {
+                "code": "46.37",
+                "label": "Wholesale of coffee, tea, cocoa and spices"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "8018"
+        ],
+        "sic": [
+            {
+                "code": "5141",
+                "label": "Groceries, General Line (merchant wholesalers except those selling general line groceries via retail method)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "4630",
+                "label": "Wholesale of food, beverages and tobacco"
+            }
+        ],
+        "sics_industry": {
+            "code": "FB-FR",
+            "label": "Food Retailers & Distributors"
+        },
+        "sics_subsector": {
+            "code": "FB.3",
+            "label": "Food & Beverage Retail"
+        },
+        "sics_sector": {
+            "code": "FB",
+            "label": "Food & Beverage"
+        },
+        "ibc_insurance": [
+            {
+                "code": "541001",
+                "label": "Retail - Grocery"
+            },
+            {
+                "code": "599101",
+                "label": "Retail - Convenience / Variety / Tobacco Store"
+            },
+            {
+                "code": "529101",
+                "label": "Building Owner - Multiple Occupancy - Retail (Not Enclosed Mall)"
+            },
+            {
+                "code": "506001",
+                "label": "Wholesale - Food (Dry and Canned Goods - No Dietary / Health Supplements)"
+            },
+            {
+                "code": "399101",
+                "label": "Building Owner - Multiple Occupancy - Mixed-Use Commercial"
+            }
+        ],
+        "created_at": "2019-11-24T12:42:12.000Z",
+        "last_updated_at": "2023-09-09T21:29:09.000Z"
+    },
+    {
+        "soleadify_id": "fa992864-93e4-11eb-8ad6-7326edce8d21",
+        "company_name": "NatureSweet",
+        "company_legal_names": [
+            "NatureSweet IS B Corporation",
+            "NatureSweet NS Brands LTD."
+        ],
+        "company_commercial_names": [
+            "NatureSweet"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Texas",
+        "main_city": "San Antonio",
+        "main_street": "North Loop 1604 West",
+        "main_street_number": "2338",
+        "main_postcode": "78248",
+        "main_latitude": 29.605555631709382,
+        "main_longitude": -98.52830227115025,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "San Antonio",
+                "postcode": "78248",
+                "street": "North Loop 1604 West",
+                "street_number": "2338",
+                "latitude": 29.605555631709382,
+                "longitude": -98.52830227115025
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Texas",
+                "city": "Laredo",
+                "postcode": null,
+                "street": null,
+                "street_number": null,
+                "latitude": null,
+                "longitude": null
+            }
+        ],
+        "num_locations": 2,
+        "company_type": "Private",
+        "year_founded": 1990,
+        "employee_count": 8000,
+        "estimated_revenue": null,
+        "short_description": "NatureSweet LTD is a San Antonio-based grower, packager and seller of produce.",
+        "long_description": "NatureSweet LTD is a San Antonio-based grower, packager and seller of produce. The company grows a variety of tomatoes that includes Glorys, Cherubs, SunBursts, Jubilees and Eclipses. The company is vertically integrated. NatureSweet grows its tomatoes in greenhouses in Willcox, Arizona and 6 Factories in 3 states of Central Mexico, Jalisco, Nayarit and Colima.",
+        "business_tags": [
+            "Cheese Balls",
+            "Mini Sweet Peppers",
+            "Recipe Inspiration",
+            "Cream Cheese"
+        ],
+        "main_business_category": "Fruit & Vegetable - Markets & Stores",
+        "main_industry": "Food & Beverage",
+        "main_sector": null,
+        "primary_phone": "+18003158209",
+        "phone_numbers": [
+            "+18003158209",
+            "+18007676789"
+        ],
+        "primary_email": null,
+        "emails": null,
+        "other_emails": null,
+        "website_url": "https://naturesweet.com/",
+        "website_domain": "naturesweet.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://www.facebook.com/naturesweet/",
+        "twitter_url": "https://twitter.com/nstomatoes",
+        "instagram_url": "https://instagram.com/nstomatoes",
+        "linkedin_url": "https://linkedin.com/company/naturesweet",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": null,
+        "cms": "wordpress",
+        "alexa_rank": null,
+        "technologies": [
+            "analytics: facebook custom audiences",
+            "wordpress plugins: yoast seo - 18.2",
+            "miscellaneous: gravity forms - 2.5.16",
+            "maps: google maps",
+            "javascript libraries: underscore.js - 1.13.1",
+            "seo tool: yoast seo - 18.2",
+            "retargeting: wpml - \\1",
+            "paas: wp engine",
+            "javascript frameworks: jquery migrate - 3.3.2",
+            "font scripts: google font api",
+            "a/b testing: crazy egg",
+            "blogging platforms: wordpress",
+            "wordpress plugins: gravity forms - 2.5.16",
+            "javascript libraries: modernizr",
+            "databases: mysql",
+            "javascript libraries: jquery - 2.5.16",
+            "wordpress plugins: extendify - 4.3.9",
+            "widgets: facebook",
+            "font scripts: typekit",
+            "retargeting: facebook custom audiences",
+            "seo tool: wpml - \\1",
+            "captchas: recaptcha",
+            "javascript frameworks: underscore.js - 1.13.1",
+            "advertising networks: appnexus",
+            "analytics: crazy egg",
+            "javascript frameworks: modernizr",
+            "seo tool: facebook friendly",
+            "lead generation: gravity forms - 2.5.16",
+            "cms: wordpress",
+            "hosting: wp engine",
+            "tag managers: google tag manager",
+            "cache tools: wp rocket",
+            "widgets: owl carousel",
+            "retargeting: facebook",
+            "javascript libraries: jquery migrate - 3.3.2",
+            "javascript frameworks: jquery - 2.5.16",
+            "wordpress plugins: wp rocket",
+            "cdn: cloudflare",
+            "programming languages: php",
+            "analytics: google analytics"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "424480",
+                "label": "Fresh Fruit and Vegetable Merchant Wholesalers"
+            },
+            "secondary": [
+                {
+                    "code": "445230",
+                    "label": "Fruit and Vegetable Retailers"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "46.31",
+                "label": "Wholesale of fruit and vegetables"
+            },
+            {
+                "code": "46.32",
+                "label": "Wholesale of meat and meat products"
+            },
+            {
+                "code": "46.39",
+                "label": "Non-specialised wholesale of food, beverages and tobacco"
+            },
+            {
+                "code": "46.35",
+                "label": "Wholesale of tobacco products"
+            },
+            {
+                "code": "46.33",
+                "label": "Wholesale of dairy products, eggs and edible oils and fats"
+            },
+            {
+                "code": "46.34",
+                "label": "Wholesale of beverages"
+            },
+            {
+                "code": "46.38",
+                "label": "Wholesale of other food, including fish, crustaceans and molluscs"
+            },
+            {
+                "code": "46.36",
+                "label": "Wholesale of sugar and chocolate and sugar confectionery"
+            },
+            {
+                "code": "46.37",
+                "label": "Wholesale of coffee, tea, cocoa and spices"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "8018"
+        ],
+        "sic": [
+            {
+                "code": "5148",
+                "label": "Fresh Fruits and Vegetables (merchant wholesalers except those selling fresh fruits and vegetables via retail method)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "4630",
+                "label": "Wholesale of food, beverages and tobacco"
+            }
+        ],
+        "sics_industry": {
+            "code": "FB-FR",
+            "label": "Food Retailers & Distributors"
+        },
+        "sics_subsector": {
+            "code": "FB.3",
+            "label": "Food & Beverage Retail"
+        },
+        "sics_sector": {
+            "code": "FB",
+            "label": "Food & Beverage"
+        },
+        "ibc_insurance": [
+            {
+                "code": "541001",
+                "label": "Retail - Grocery"
+            },
+            {
+                "code": "542101",
+                "label": "Retail - Bakeries"
+            },
+            {
+                "code": "506301",
+                "label": "Wholesale - Produce (Fruits / Vegetables)"
+            },
+            {
+                "code": "205101",
+                "label": "Baked Goods / Pasta Manufacturing"
+            },
+            {
+                "code": "506001",
+                "label": "Wholesale - Food (Dry and Canned Goods - No Dietary / Health Supplements)"
+            }
+        ],
+        "created_at": "2019-11-24T11:47:24.000Z",
+        "last_updated_at": "2023-07-08T02:21:11.000Z"
+    },
+    {
+        "soleadify_id": "8d74f117-93e4-11eb-919a-b3f9a5ad205c",
+        "company_name": "PCC Community Markets",
+        "company_legal_names": [
+            "Puget Consumers Co-op"
+        ],
+        "company_commercial_names": [
+            "PCC Community Markets",
+            "PCC Natural Markets"
+        ],
+        "main_country_code": "US",
+        "main_country": "United States",
+        "main_region": "Washington",
+        "main_city": "Seattle",
+        "main_street": "40th Avenue Northeast",
+        "main_street_number": "6514",
+        "main_postcode": "98115",
+        "main_latitude": 47.67612838745117,
+        "main_longitude": -122.28435516357422,
+        "locations": [
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Bellevue",
+                "postcode": "98004",
+                "street": "NE 4th Street (S sidewalk)",
+                "street_number": "11615",
+                "latitude": 47.613746643066406,
+                "longitude": -122.20043182373047
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98115",
+                "street": "40th Avenue Northeast",
+                "street_number": "6514",
+                "latitude": 47.67612838745117,
+                "longitude": -122.28435516357422
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Burien",
+                "postcode": "98148",
+                "street": "1st Avenue South",
+                "street_number": "15840",
+                "latitude": 47.46102523803711,
+                "longitude": -122.33216857910156
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Edmonds",
+                "postcode": "98020",
+                "street": "Edmonds Way",
+                "street_number": "9803",
+                "latitude": 47.791465759277344,
+                "longitude": -122.36601257324219
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98121",
+                "street": "Elliott Avenue",
+                "street_number": "500",
+                "latitude": 47.61806869506836,
+                "longitude": -122.35816192626953
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98118",
+                "street": "South Edmunds Street",
+                "street_number": "3610",
+                "latitude": 47.558937072753906,
+                "longitude": -122.28684997558594
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Kirkland",
+                "postcode": "98033",
+                "street": "Kirkland Way",
+                "street_number": "430",
+                "latitude": 47.675628662109375,
+                "longitude": -122.20018005371094
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98122",
+                "street": "East Union Street",
+                "street_number": "2230",
+                "latitude": 47.61311721801758,
+                "longitude": -122.302978515625
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Seattle",
+                "postcode": "98101",
+                "street": "4th Avenue",
+                "street_number": "1320",
+                "latitude": 47.60908889770508,
+                "longitude": -122.33526611328125
+            },
+            {
+                "country_code": "US",
+                "country": "United States",
+                "region": "Washington",
+                "city": "Bothell",
+                "postcode": "98021",
+                "street": "Bothell-Everett Highway",
+                "street_number": "22621",
+                "latitude": 47.79273986816406,
+                "longitude": -122.21438598632812
+            }
+        ],
+        "num_locations": 17,
+        "company_type": "Private",
+        "year_founded": 1953,
+        "employee_count": 5000,
+        "estimated_revenue": null,
+        "short_description": "PCC Community Markets is Seattle's premier organic grocery store. Locally grown and community-owned, the co-op has 16 stores in Greater Seattle.",
+        "long_description": "PCC Community Markets is a food cooperative based in Seattle, Washington. With over 58,000 members, it is the largest consumer-owned food cooperative in the United States. Both members and non-members may shop at the retail locations, but members receive certain discounts. The organization currently operates fifteen retail locations. Eight of the fifteen stores are located in Seattle (in the Fremont, Green Lake, Columbia City, View Ridge, West Seattle, Ballard and Central District neighborhoods). The West Seattle location reopened on October 2, 2019. The other seven are located in Issaquah, Kirkland, Burien, Bothell, Redmond, Edmonds and Bellevue. The organization was founded in 1953 as Puget Consumers Co-op and was renamed to PCC Natural Markets in 1998. It was then renamed PCC Community Markets in 2017.",
+        "business_tags": [
+            "Organic Groceries",
+            "Cooking Class",
+            "Cooking Skills",
+            "Locally Grown",
+            "Grass Fed Beef",
+            "Healthy Eating Recipes",
+            "Side Dish",
+            "Main Dish",
+            "Meat & Sea Food",
+            "Browse Recipes"
+        ],
+        "main_business_category": "Fruit & Vegetable - Markets & Stores",
+        "main_industry": "Food & Beverage",
+        "main_sector": null,
+        "primary_phone": null,
+        "phone_numbers": null,
+        "primary_email": null,
+        "emails": null,
+        "other_emails": null,
+        "website_url": "https://www.pccmarkets.com/",
+        "website_domain": "pccmarkets.com",
+        "website_tld": "com",
+        "website_language_code": "en",
+        "facebook_url": "https://facebook.com/pccmarkets",
+        "twitter_url": "https://twitter.com/PCC",
+        "instagram_url": "https://www.instagram.com/pccmarkets/",
+        "linkedin_url": "https://linkedin.com/company/pccmarkets",
+        "ios_app_url": null,
+        "android_app_url": null,
+        "youtube_url": null,
+        "cms": "wordpress -  6.1.1",
+        "alexa_rank": null,
+        "technologies": [
+            "javascript frameworks: jquery - 6.1.1",
+            "analytics: facebook custom audiences",
+            "seo tool: yoast seo premium - 20.1",
+            "ecommerce: woocommerce - 7.3.0",
+            "wordpress plugins: yoast seo - 20.1",
+            "javascript libraries: jquery - 6.1.1",
+            "cms: wordpress -  6.1.1",
+            "analytics: quantcast",
+            "wordpress plugins: woocommerce - 7.3.0",
+            "databases: mysql",
+            "seo tool: yoast seo - 20.1",
+            "widgets: facebook",
+            "retargeting: facebook custom audiences",
+            "web servers: apache",
+            "seo tool: facebook friendly",
+            "ecommerce: cart functionality",
+            "tag managers: google tag manager",
+            "retargeting: facebook",
+            "advertising: microsoft advertising",
+            "seo tool: twitter friendly",
+            "programming languages: php",
+            "blogging platforms: wordpress -  6.1.1",
+            "analytics: google analytics"
+        ],
+        "naics_2022": {
+            "primary": {
+                "code": "445110",
+                "label": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)"
+            },
+            "secondary": [
+                {
+                    "code": "445230",
+                    "label": "Fruit and Vegetable Retailers"
+                }
+            ]
+        },
+        "nace_rev2": [
+            {
+                "code": "47.11",
+                "label": "Retail sale in non-specialised stores with food, beverages or tobacco predominating"
+            }
+        ],
+        "ncci_codes_28_1": [
+            "8006",
+            "8033"
+        ],
+        "sic": [
+            {
+                "code": "5141",
+                "label": "Groceries, General Line (general line groceries sold via retail method)"
+            },
+            {
+                "code": "5411",
+                "label": "Grocery Stores (except convenience stores, freezer plans, and grocery stores with substantial general merchandise)"
+            }
+        ],
+        "isic_v4": [
+            {
+                "code": "4711",
+                "label": "Retail sale in non-specialized stores with food, beverages or tobacco predominating"
+            }
+        ],
+        "sics_industry": {
+            "code": "FB-FR",
+            "label": "Food Retailers & Distributors"
+        },
+        "sics_subsector": {
+            "code": "FB.3",
+            "label": "Food & Beverage Retail"
+        },
+        "sics_sector": {
+            "code": "FB",
+            "label": "Food & Beverage"
+        },
+        "ibc_insurance": [
+            {
+                "code": "530201",
+                "label": "Public Markets (Flea Markets, Farmers Markets, etc)"
+            },
+            {
+                "code": "864401",
+                "label": "Community / Civic / Special Interest Groups (Non-Medical)"
+            },
+            {
+                "code": "541001",
+                "label": "Retail - Grocery"
+            },
+            {
+                "code": "543301",
+                "label": "Retail - Specialty Food Stores (Not Otherwise Classified)"
+            },
+            {
+                "code": "506301",
+                "label": "Wholesale - Produce (Fruits / Vegetables)"
+            }
+        ],
+        "created_at": "2019-11-24T12:40:43.000Z",
+        "last_updated_at": "2023-08-18T23:04:18.000Z"
+    }
+]

@@ -36,27 +36,6 @@ router.delete('/:id/clients', [authenticateToken,getBusiness], async (req, res) 
     }
 })
 
-router.patch('/:id/partners', [authenticateToken,getBusiness], async (req, res) => { 
-    try {
-        res.Business.partners.push(req.body.partner)
-        await res.Business.save()
-        res.status(200).json({ Message: "Partner added" }) 
-    
-    } catch (err) { 
-        res.status(500).json({ Message: err.message }) 
-    }
-})
-
-router.delete('/:id/partners', [authenticateToken,getBusiness], async (req, res) => { 
-	try {
-        res.Business.partners.splice(res.Business.partners.indexOf(req.body.partner), 1)
-		await res.User.save()
-		res.status(200).json({ Message: "Partner deleted" })
-	} catch (err) {
-		res.status(500).json({ Message: err.message })
-	}
-})
-
 function authenticateToken(req, res, next) {
     const authHeader = req.headers['authorization']
     const token = authHeader && authHeader.split(' ')[1]
